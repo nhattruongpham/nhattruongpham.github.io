@@ -2,25 +2,20 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Ph.D. Student in Integrative Biotechnology specializing in Computational Biology and Bioinformatics
 
 profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  align: left
+  image: profile.png
+  image_circular: true
   address: >
     <p>555 your office number</p>
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+news: true
+selected_papers: true
+social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My name is Nhat Truong. I am currently a first-year Ph.D. Student at the Department of Integrative Biotechnology, College of Biotechnology and Bioengineering, Sungkyunkwan University (SKKU). I am working under the guidance of Assistant Professor Balachandran Manavalan in the Computational Biology and Bioinformatics Laboratory. Prior to joining SKKU, I worked as an Assistant Researcher at Ton Duc Thang University (TDTU), Vietnam. I completed my M.E. degree in Automation and Control at TDTU, where I was supervised by Dr. Sy Dzung Nguyen and co-supervised by Dr. Duc Ngoc Minh Dang. I also hold a B.E. degree in Electronics and Telecommunication from TDTU, which I obtained in 2019 under the supervision of Dr. Duc Ngoc Minh Dang.
