@@ -1,34 +1,63 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Manavalan":
+  - firstname: ["Balachandran"]
+    url: https://scholar.google.com/citations?user=0vkenbwAAAAJ&hl=en
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Dang":
+  - firstname: ["Duc Ngoc Minh"]
+    url: https://scholar.google.com/citations?user=2UKP440AAAAJ&hl=en
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Nguyen": 
+  - firstname: ["Sy Dzung"]
+    url: https://scholar.google.com/citations?user=XFUxOkoAAAAJ&hl=en
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Lim":
+  - firstname: ["Chee Peng"]
+    url: https://scholar.google.com/citations?user=an_4IJkAAAAJ&hl=en
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Nguyen": 
+  - firstname: ["Ngoc Duy"]
+    url: https://scholar.google.com/citations?user=At-Y-H8AAAAJ&hl=en
 
-"Przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Nguyen":
+  - firstname: ["Thanh Thi"]
+    url: https://scholar.google.com/citations?user=xr39SOwAAAAJ&hl=en
 
-"Schrödinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"Nguyen":
+  - firstname: ["Trung Hai"]
+    url: https://scholar.google.com/citations?user=a4xyHScAAAAJ&hl=en
 
-"Lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"Ngo":
+  - firstname: ["Son Tung"]
+    url: https://scholar.google.com/citations?user=_VxSvQkAAAAJ&hl=en
 
-"Planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Pham":
+  - firstname: ["T Ngoc Han"]
+    url: https://scholar.google.com/citations?user=_aQ5P4gAAAAJ&hl=en
+
+"Wei":
+  - firstname: ["Leyi"]
+    url: https://scholar.google.com/citations?hl=en&user=0EAV03MAAAAJ
+
+"Natesan":
+  - firstname: ["Srinivasan"]
+    url: https://scholar.google.com/citations?hl=en&user=WPdTWisAAAAJ
+
+"El Saddik":
+  - firstname: ["Abdulmotaleb"]
+    url: https://scholar.google.com/citations?hl=en&user=VcOjgngAAAAJ
+
+"Shoombuatong":
+  - firstname: ["Watshara"]
+    url: https://scholar.google.com/citations?hl=en&user=B3cea18AAAAJ
+
+"Mustaqeem":
+  - firstname: ["Khan"]
+    url: https://scholar.google.com/citations?hl=en&user=uEZhRWAAAAAJ
+
+"Zhao":
+  - firstname: ["Zhongming"]
+    url: https://scholar.google.com/citations?user=eDRMnHQAAAAJ&hl=en
+
+"Mallik":
+  - firstname: ["Saurav"]
+    url: https://scholar.google.com/citations?user=e-6kvkIAAAAJ&hl=en

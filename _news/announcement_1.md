@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-04-15
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+One manuscript entitled "DrugormerDTI: Drug Graphormer for drug--target interaction prediction" has been accepted in Computers in Biology and Medicine

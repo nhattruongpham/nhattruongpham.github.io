@@ -1,12 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - nhattruongpham
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - garlicdevs/Fruit-API
+  - NinV/Korean-License-Plate-Recognition
+  - ngthanhtin/VLSP_ImageCaptioning
+  - Fruit-Lab/aicv115m_challenge_solution
+  - nhattruongpham/mvina
+  - nhattruongpham/hda-adcrnn-ser
