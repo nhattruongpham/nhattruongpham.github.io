@@ -1,5 +1,16 @@
 
           <div class="publications">
-            (*) denotes equal contribution, (&dagger;) denotes correspondancce
+            <p>
+            (*) denotes equal contribution
+            </p>
+            <p>
+            (†) denotes correspondancce
+            </p>
+            <p>
+            <span style="display: inline-block; width: 20px; height: 20px; background-color: #600;"></span> denotes journal
+            </p>
+            <p>
+            <span style="display: inline-block; width: 20px; height: 20px; background-color: #215d42;"></span> denotes conference
+            </p>
             {% bibliography -f {{ site.scholar.bibliography }} -q @*[selected=true]* %}
           </div>

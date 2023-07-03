@@ -69,3 +69,15 @@
 "Mallik":
   - firstname: ["Saurav"]
     url: https://scholar.google.com/citations?user=e-6kvkIAAAAJ&hl=en
+
+"Nguyen":
+  - firstname: ["Hai"]
+    url: https://scholar.google.com/citations?user=5b9ncWoAAAAJ&hl=en
+
+"Mahmud":
+  - firstname: ["Mufti"]
+    url: https://scholar.google.com/citations?user=L8em2YoAAAAJ&hl=en
+
+"Kim":
+  - firstname: ["Yong-Guk"]
+    url: https://scholar.google.com/citations?hl=en&user=gGfbXFIAAAAJ

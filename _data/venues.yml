@@ -1,6 +1,53 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"ESWA":
+  color: "#600"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"CIBM":
+  color: "#600"
+
+"KBS":
+  color: "#600"
+
+"SOCO":
+  color: "#600"
+
+"IJBIOMAC":
+  color: "#600"
+
+"Heliyon":
+  color: "#600"
+
+"APIN":
+  color: "#600"
+
+"Sci Rep":
+  color: "#600"
+
+"JCC":
+  color: "#600"
+
+"IEEE TFS":
+  color: "#600"
+
+"JAEC":
+  color: "#600"
+
+"T&F JIT":
+  color: "#600"
+
+"VLSP":
+  color: "#215d42"
+
+"ATC":
+  color: "#215d42"
+
+"GTSD":
+  color: "#215d42"
+
+"ICCE":
+  color: "#215d42"
+
+"De-Factify":
+  color: "#215d42"
+
+"SSCI":
+  color: "#215d42"
