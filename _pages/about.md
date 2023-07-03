@@ -9,9 +9,7 @@ profile:
   image: profile.png
   image_circular: true
   address: >
-    <p>Room 62105, Biotechnology and Bioengineering Building 2,</p>
-    <p>Seobu-ro, Jagan-gu, Suwon-si, Gyeonggi-do, 16419,</p>
-    <p>Republic of Korea</p>
+    <p>Room 62105, Biotechnology and Bioengineering Building 2, Seobu-ro, Jagan-gu, Suwon-si, Gyeonggi-do, 16419, Republic of Korea</p>
 
 news: true
 selected_papers: true
