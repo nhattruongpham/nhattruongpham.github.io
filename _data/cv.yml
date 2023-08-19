@@ -6,7 +6,7 @@
     - name: Languages
       value: Vietnamese, English, Korean
     - name: Emails
-      value: phamnhattruong.skyo@gmail.com; truongpham96@skku.edu; phamnhattruong@ieee.org
+      value: truongpham96@skku.edu; phamnhattruong@ieee.org; phamnhattruong.skyo@gmail.com
 
 - title: Education
   type: time_table
@@ -48,19 +48,26 @@
   contents:
     - title: <u>Reviewer for Journals:</u>
       items: 
-        - IEEE/ACM Transactions on Audio, Speech and Language Processing
-        - IEEE Access
-        - Arabian Journal for Science and Engineering
-        - The Journal of Supercomputing
-    - title: <u>Reviewer for Conferences:</u>
+        - <i>IEEE/ACM Transactions on Audio, Speech and Language Processing</i>
+        - <i>IEEE Access</i>
+        - <i>Arabian Journal for Science and Engineering</i>
+        - <i>The Journal of Supercomputing</i>
+        - <i>Artificial Intelligence and Applications</i>
+        - <i>Expert Systems With Applications</i>
+        - <i>Biomedical Signal Processing and Control</i>
+    - title: <u>Reviewer for Conferences/Workshops:</u>
       items:
-        - International Joint Conference on Neural Networks
+        - <i>International Joint Conference on Neural Networks</i>
+        - <i>International Conference on Artificial Intelligence and Human-Computer Interaction</i>
+        - <i>AI for Science Workshop (NeurIPS2023-AI4Science)</i>
     - title: <u>Technical Program Committee:</u>
       items:
-        - International Joint Conference on Neural Networks
-    - title: <u> Conference Committee:</u>
+        - <i>International Joint Conference on Neural Networks</i>
+        - <i>International Conference on Trends in Computational and Cognitive Engineering</i>
+        - <i>International Conference on Trends in Electronics and Health Informatics</i>
+    - title: <u> Local Committee:</u>
       items:
-        - The 2nd International Conference on Advanced Smart Materials and Structures
+        - <i>International Conference on Advanced Smart Materials and Structures</i>
 
 - title: Professional Memberships
   type: list

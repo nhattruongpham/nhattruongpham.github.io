@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One manuscript entitled "Hybrid data augmentation and deep attention-based dilated convolutional-recurrent neural networks for speech emotion recognition" has been accepted in Expert Systems with Applications
+One manuscript entitled <b>"Hybrid data augmentation and deep attention-based dilated convolutional-recurrent neural networks for speech emotion recognition"</b> has been accepted in <i>Expert Systems with Applications</i>

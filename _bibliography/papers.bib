@@ -1,6 +1,53 @@
 ---
 ---
 
+@article{basith2023adp,
+  abbr={CIBM},
+  title={ADP-Fuse: A novel dual layer machine learning predictor to identify antidiabetic peptides and diabetes types using multiview information},
+  author={Basith, Shaherin and <b>Pham</b>, <b>Nhat Truong</b> and Song, Minkyung and Manavalan, Balachandran and Lee, Gwang},
+  journal={Computers in Biology and Medicine},
+  volume={},
+  pages={107386},
+  year={2023},
+  publisher={Elsevier},
+  abstract={Diabetes mellitus has become a major public health concern associated with high mortality and reduced life expectancy and can cause blindness, heart attacks, kidney failure, lower limb amputations, and strokes. A new generation of antidiabetic peptides (ADPs) that act on β-cells or T-cells to regulate insulin production is being developed to alleviate the effects of diabetes. However, the lack of effective peptide-mining tools has hampered the discovery of these promising drugs; hence, novel computational tools need to be developed urgently. In this study, we present ADP-Fuse, a novel two-layer prediction framework capable of accurately identifying ADPs or non-ADPs and categorizing them into type 1 and type 2 ADPs. First, we comprehensively evaluated 22 peptide sequence-derived features coupled with eight notable machine learning algorithms. Subsequently, the most suitable feature descriptors and classifiers for both layers were identified. The output of these single-feature models, embedded with multiview information, was trained with an appropriate classifier to provide the final prediction. Comprehensive cross-validation and independent tests substantiate that ADP-Fuse surpasses single-feature models and the feature fusion approach for the prediction of ADPs and their types. In addition, the SHapley Additive exPlanation method was used to elucidate the contributions of individual features to the prediction of ADPs and their types. Finally, a user-friendly web server for ADP-Fuse was developed and made publicly accessible (https://balalab-skku.org/ADP-Fuse), enabling the swift screening and identification of novel ADPs and their types. This framework is expected to contribute significantly to antidiabetic peptide identification.},
+  html={https://www.sciencedirect.com/science/article/abs/pii/S001048252300851X},
+  doi={10.1016/j.compbiomed.2023.107386},
+  website={https://balalab-skku.org/ADP-Fuse/},
+  selected={true},
+  dimensions={true},
+  preview={ADP-Fuse.png}
+}
+
+@inproceedings{pham2023server,
+  abbr={ICIIT},
+  title={SERVER: Multi-modal Speech Emotion Recognition using TransformeR-based and Vision-based Embeddings},
+  author={<b>Pham</b>, <b>Nhat Truong</b> and Dang, Duc Ngoc Minh and Pham, Bich Hong Ngoc and Nguyen<sub>1</sub>, Sy Dzung},
+  booktitle={2023 8th International Conference on Intelligent Information Technology},
+  pages={234--238},
+  year={2023},
+  abstract={This paper proposes a multi-modal approach for speech emotion recognition (SER) using both text and audio inputs. The audio embedding is extracted by using a vision-based architecture, namely VGGish, while the text embedding is extracted by using a transformer-based architecture, namely BERT. Then, these embeddings are fused using concatenation to recognize emotional states. To evaluate the effectiveness of the proposed method, the benchmark dataset, namely IEMOCAP, is employed in this study. Experimental results indicate that the proposed method is very competitive and better than most of the latest and state-of-the-art methods using multi-modal analysis for SER. The proposed method achieves 63.00% unweighted accuracy (UA) and 63.10% weighted accuracy (WA) on the IEMOCAP dataset. In the future, an extension of multi-task learning and multi-lingual approaches will be investigated to improve the performance and robustness of multi-modal SER. For reproducibility purposes, our code is publicly available.},
+  html={https://dl.acm.org/doi/10.1145/3591569.3591610},
+  doi={10.1145/3591569.3591610},
+  code={https://github.com/nhattruongpham/mmser},
+  dimensions={true},
+  preview={SERVER.jpeg}
+}
+
+@inproceedings{dang2023uplink,
+  abbr={ICIIT},
+  title={Uplink registration-based MAC protocol for IEEE 802.11ah networks},
+  author={Dang, Duc Ngoc Minh and <b>Pham</b>, <b>Nhat Truong</b>},
+  booktitle={2023 8th International Conference on Intelligent Information Technology},
+  pages={33--37},
+  year={2023},
+  abstract={IEEE 802.11ah (Wi-Fi HaLow) operates in license-exempt ISM bands below 1 GHz and provides longer-range connectivity. The main advantage of the IEEE 802.11ah is it provides long range connection with low power consumption. RAW (Restricted Access Window) in IEEE 802.11ah helps to reduce the collision probability and enhance the network throughput when many stations contend the channel. Since stations are assigned to uplink RAW slots based on their Association Identifications (AID), the number of stations that have uplink data packets in each RAW slot is a big difference. It results in low fairness among stations. The paper proposes an uplink registration-based MAC protocol for IEEE 802.11ah networks (UR-MAC). In UR-MAC protocol, stations with uplink data will register with the AP by attaching the uplink registration to the data packet during downlink communications. The AP will allocate RAW slots based on the uplink registered station list. The UR-MAC protocol tries to use up the resources of the RAW slots as well as balance the number of stations with uplink data among the RAW slots. Through the evaluation and comparison analysis, the UR-MAC protocol significantly improves the fairness index compared to the IEEE 802.11ah protocol while still ensuring the probability of successful transmission, the average number of successfully transmitted packets, and power efficiency compared to the IEEE 802.11ah protocol.},
+  html={https://dl.acm.org/doi/10.1145/3591569.3591575},
+  doi={10.1145/3591569.3591575},
+  dimensions={true},
+  preview={UR-MAC.jpeg}
+}
+
 @article{hu2023drugormerdti,
   abbr={CIBM},
   title={DrugormerDTI: Drug Graphormer for drug--target interaction prediction},
@@ -15,7 +62,8 @@
   code={https://github.com/joannacatj/drugormerDTI},
   doi={10.1016/j.compbiomed.2023.106946},
   selected={true},
-  dimensions={true}
+  dimensions={true},
+  preview={DrugormerDTI.jpg}
 }
 
 @article{mustaqeem2023aad,
@@ -31,7 +79,8 @@
   html={https://www.sciencedirect.com/science/article/abs/pii/S0950705123002757},
   doi={10.1016/j.knosys.2023.110525},
   selected={true},
-  dimensions={true}
+  dimensions={true},
+  preview={AAD-Net.jpg}
 }
 
 @article{kumar2023towards,
@@ -39,13 +88,15 @@
   title={Towards an efficient machine learning model for financial time series forecasting},
   author={Kumar, Arun and Chauhan, Tanya and Natesan, Srinivasan and <b>Pham</b>, <b>Nhat Truong</b> and Nguyen<sub>2</sub>, Ngoc Duy and Lim, Chee Peng},
   journal={Soft Computing},
-  pages={1--11},
+  volumev={27},
+  pages={11329--11339},
   year={2023},
   publisher={Springer},
   abstract={Financial time series forecasting is a challenging problem owing to the high degree of randomness and absence of residuals in time series data. Existing machine learning solutions normally do not perform well on such data. In this study, we propose an efficient machine learning model for financial time series forecasting through carefully designed feature extraction, elimination, and selection strategies. We leverage a binary particle swarm optimization algorithm to select the appropriate features and propose new evaluation metrics, i.e. mean weighted square error and mean weighted square ratio, for better performance assessment in handling financial time series data. Both indicators ascertain that our proposed model is effective, which outperforms several existing methods in benchmark studies.},
   html={https://link.springer.com/article/10.1007/s00500-023-08676-x},
   doi={10.1007/s00500-023-08676-x},
-  dimensions={true}
+  dimensions={true},
+  preview={StockML.webp}
 }
 
 @article{pham2023hybrid,
@@ -61,7 +112,8 @@
   doi={10.1016/j.eswa.2023.120608},
   code={https://github.com/nhattruongpham/hda-adcrnn-ser},
   selected={true},
-  dimensions={true}
+  dimensions={true},
+  preview={HDA_mADCRNN.jpg}
 }
 
 @article{charoenkwan2023pretoria,
@@ -78,7 +130,8 @@
   doi={10.1016/j.ijbiomac.2023.124228},
   website={http://pmlabstack.pythonanywhere.com/Pretoria},
   selected={true},
-  dimensions={true}
+  dimensions={true},
+  preview={Pretoria.jpg}
 }
 
 @article{pham2023exploratory,
@@ -96,7 +149,8 @@
   pdf={https://www.cell.com/heliyon/pdf/S2405-8440(23)02956-0.pdf},
   code={https://github.com/nhattruongpham/Deep_Brain_SigNet},
   selected={true},
-  dimensions={true}
+  dimensions={true},
+  preview={Humain_brain.jpg}
 }
 
 @article{pham2023speech,
@@ -104,7 +158,9 @@
   title={Speech emotion recognition using overlapping sliding window and Shapley additive explainable deep neural network},
   author={<b>Pham</b>, <b>Nhat Truong</b> and Nguyen<sub>1</sub>, Sy Dzung and Nguyen, Vu Song Thuy and Pham, Bich Ngoc Hong and Dang, Duc Ngoc Minh},
   journal={Journal of Information and Telecommunication},
-  pages={1--19},
+  volumevo={7},
+  number={3},
+  pages={317--335},
   year={2023},
   publisher={Taylor \& Francis},
   abstract={Speech emotion recognition (SER) has several applications, such as e-learning, human-computer interaction, customer service, and healthcare systems. Although researchers have investigated lots of techniques to improve the accuracy of SER, it has been challenging with feature extraction, classifier schemes, and computational costs. To address the aforementioned problems, we propose a new set of 1D features extracted by using an overlapping sliding window (OSW) technique for SER in this study. In addition, a deep neural network-based classifier scheme called the deep Pattern Recognition Network (PRN) is designed to categorize emotional states from the new set of 1D features. We evaluate the proposed method on the Emo-DB and the AESSD datasets that contain several different emotional states. The experimental results show that the proposed method achieves an accuracy of 98.5% and 87.1% on the Emo-DB and AESSD datasets, respectively. It is also more comparable with accuracy to and better than the state-of-the-art and current approaches that use 1D features on the same datasets for SER. Furthermore, the SHAP (SHapley Additive exPlanations) analysis is employed for interpreting the prediction model to assist system developers in selecting the optimal features to integrate into the desired system.},
@@ -113,7 +169,8 @@
   pdf={https://www.tandfonline.com/doi/epdf/10.1080/24751839.2023.2187278?needAccess=true&role=button},
   code={https://github.com/nhattruongpham/osw-1d-prn-shap},
   selected={true},
-  dimensions={true}
+  dimensions={true},
+  preview={osw-1d-prn-shap.jpeg}
 }
 
 @article{nguyen2023fruit,
@@ -130,7 +187,8 @@
   doi={10.1016/j.eswa.2022.119212},
   code={https://github.com/nhattruongpham/Fruit-CoV},
   selected={true},
-  dimensions={true}
+  dimensions={true},
+  preview={Fruit-CoV.jpg}
 }
 
 @article{nguyen2023towards,
@@ -149,7 +207,8 @@
   code={https://github.com/garlicdevs/Fruit-API},
   website={https://fruitlab.org/},
   selected={true},
-  dimensions={true}
+  dimensions={true},
+  preview={Fruit-API.webp}
 }
 
 @article{tin2022viecap4h,
@@ -179,7 +238,8 @@
   abstract={IEEE 802.11ah is a sub-GHz communication technology to offer longer range and low power connectivity for the Internet of Things (IoT) applications. A Restricted Access Window (RAW) is specified to decrease the collision probability. Stations are divided into groups and stations from each group attempt to access the channel by employing the Distributed Coordination Function during their assigned RAW slots. However, the network throughput is limited by a single channel MAC protocol. In this paper, Space-Frequency Diversity-based MAC protocol for the IEEE 802.11ah network (SF-MAC protocol) is proposed to allow stations of different sectors to transmit packets on different channels with the help of Forwarders. The proposed SF-MAC protocol improves the packet delivery ratio and aggregate throughput of the network.},
   html={https://ieeexplore.ieee.org/abstract/document/9943042},
   doi={10.1109/ATC55345.2022.9943042},
-  dimensions={true}
+  dimensions={true},
+  preview={SF-MAC.gif}
 }
 
 @inproceedings{pham2022key,
@@ -194,7 +254,8 @@
   html={https://ieeexplore.ieee.org/abstract/document/9989111},
   doi={10.1109/GTSD54989.2022.9989111},
   code={https://github.com/ThorPham/Key_infomation_extraction},
-  dimensions={true}
+  dimensions={true},
+  preview={KeyIE.gif}
 }
 
 @inproceedings{pham2022vietnamese,
@@ -209,7 +270,8 @@
   html={https://ieeexplore.ieee.org/abstract/document/9989248},
   doi={10.1109/GTSD54989.2022.9989248},
   code={https://github.com/ThorPham/VN_scene_text_detection_recognition},
-  dimensions={true}
+  dimensions={true},
+  preview={SceneText.gif}
 }
 
 @inproceedings{dang2022safety,
@@ -223,7 +285,8 @@
   abstract={Recently, Vehicular Ad-hoc Networks (VANETs) have been considered as an important part of the Intelligent Transportation System. Data transmission in VANET can be safety message and non-safety message transmissions. While the safety message transmission typically requires bounded delay and a high packet delivery ratio, the non-safety message transmission demands sufficiently high throughput. In this paper, a MAC protocol for Safety message broadcast Reliability Enhancement in VANETs, named SRE-MAC protocol, is proposed to ensure both the reliability of safety message transmission and the high throughput for non-safety data transmission. In particular, the proposed SRE-MAC employs a time slot allocation of TDMA and a random-access technique of CSMA schemes for accessing the control channel. To evaluate our proposed SRE-MAC protocol, some extensive simulations are conducted. The simulation results show that the proposed SRE-MAC protocol achieves higher performance in terms of safety packet delivery ratio and throughput of non-safety packets, as compared to the IEEE 1609.4 and the VER-MAC protocol.},
   html={https://ieeexplore.ieee.org/abstract/document/9852052},
   doi={10.1109/ICCE55644.2022.9852052},
-  dimensions={true}
+  dimensions={true},
+  preview={SRE-MAC.gif}
 }
 
 @article{tran2022deep,
@@ -240,7 +303,8 @@
   html={https://www.nature.com/articles/s41598-022-13237-7},
   doi={10.1038/s41598-022-13237-7},
   code={https://github.com/thanhtran1965/DrillFailureDetection_SciRep2022},
-  dimensions={true}
+  dimensions={true},
+  preview={SciRep.webp}
 }
 
 @article{pham2022improving,
@@ -258,7 +322,8 @@
   dimensions={true},
   doi={10.1002/jcc.26779},
   html={https://onlinelibrary.wiley.com/doi/abs/10.1002/jcc.26779},
-  code={https://github.com/nhattruongpham/mvina}
+  code={https://github.com/nhattruongpham/mvina},
+  preview={mVina.jpeg}
 }
 
 @article{nguyen2022determination,
@@ -275,13 +340,14 @@
   html={https://ieeexplore.ieee.org/abstract/document/9562269},
   doi={10.1109/TFUZZ.2021.3118113},
   selected={true},
-  dimensions={true}
+  dimensions={true},
+  preview={fRiskC.gif}
 }
 
 @inproceedings{nguyen2022hcilab,
   abbr={De-Factify},
   title={HCILab at Memotion 2.0 2022: Analysis of sentiment, emotion and intensity of emotion classes from meme images using single and multi modalities},
-  author={Nguyen, Thanh Tin and <b>Pham</b>, <b>Nhat Truong</b> and Nguyen<sub>2</sub>, Ngoc Duy and Nguyen<sub>4</sub>, Hai and Nguyen, Long H and Kim, Yong-Guk},
+  author={Nguyen<sub>6</sub>, Thanh Tin and <b>Pham</b>, <b>Nhat Truong</b> and Nguyen<sub>2</sub>, Ngoc Duy and Nguyen<sub>4</sub>, Hai and Nguyen, Long H and Kim, Yong-Guk},
   booktitle={Proceedings of De-Factify: Workshop on Multimodal Fact Checking and Hate Speech Detection (De-Factify&#64;AAAI 2022), CEUR},
   year={2022},
   abstract={Nowadays, memes found on internet are overwhelming. Although they are innocuous and sometimes entertaining, there exist memes that contain sarcasm, offensive, or motivational feelings. In this study, several approaches are proposed to solve the multiple modality problem in analysing the given meme dataset. The imbalance issue has been addressed by using a new Auto Augmentation method and the uncorrelation issue has been mitigated by adopting deep Canonical Correlation Analysis to find the most correlated projections of visual and textual feature embedding. In addition, both stacked attention and multi-hop attention network are employed to efficiently generate aggregated features. As a result, our team, i.e. HCILab, achieved a weighted F1 score of 0.4995 for sentiment analysis, 0.7414 for emotion classification, and 0.5301 for scale/intensity of emotion classes on the leaderboard. This results are obtained by using concatenation between image and text model and our code can be found at https://github.com/ngthanhtin/Memotion2_AAAI_WS_2022.},
@@ -289,7 +355,8 @@
   pdf={https://ceur-ws.org/Vol-3199/paper12.pdf},
   code={https://github.com/ngthanhtin/Memotion2_AAAI_WS_2022},
   selected={true},
-  dimensions={true}
+  dimensions={true},
+  preview={Memotion2.png}
 }
 
 @inproceedings{tran2021separate,
@@ -304,7 +371,8 @@
   html={https://ieeexplore.ieee.org/abstract/document/9660125},
   doi={10.1109/SSCI50451.2021.9660125},
   code={https://github.com/nhattruongpham/soundSepsound},
-  dimensions={true}
+  dimensions={true},
+  preview={soundSepsound.gif}
 }
 
 @article{pham2020method,
