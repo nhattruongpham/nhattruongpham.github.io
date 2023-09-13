@@ -4,13 +4,13 @@
 @article{basith2023adp,
   abbr={CIBM},
   title={ADP-Fuse: A novel dual layer machine learning predictor to identify antidiabetic peptides and diabetes types using multiview information},
-  author={Basith, Shaherin and <b>Pham</b>, <b>Nhat Truong</b> and Song, Minkyung and Manavalan, Balachandran and Lee, Gwang},
+  author={Basith, Shaherin and <b>Pham</b>, <b>Nhat Truong</b> and Song, Minkyung and Lee, Gwang and Manavalan, Balachandran},
   journal={Computers in Biology and Medicine},
-  volume={},
+  volume={165},
   pages={107386},
   year={2023},
   publisher={Elsevier},
-  abstract={Diabetes mellitus has become a major public health concern associated with high mortality and reduced life expectancy and can cause blindness, heart attacks, kidney failure, lower limb amputations, and strokes. A new generation of antidiabetic peptides (ADPs) that act on β-cells or T-cells to regulate insulin production is being developed to alleviate the effects of diabetes. However, the lack of effective peptide-mining tools has hampered the discovery of these promising drugs; hence, novel computational tools need to be developed urgently. In this study, we present ADP-Fuse, a novel two-layer prediction framework capable of accurately identifying ADPs or non-ADPs and categorizing them into type 1 and type 2 ADPs. First, we comprehensively evaluated 22 peptide sequence-derived features coupled with eight notable machine learning algorithms. Subsequently, the most suitable feature descriptors and classifiers for both layers were identified. The output of these single-feature models, embedded with multiview information, was trained with an appropriate classifier to provide the final prediction. Comprehensive cross-validation and independent tests substantiate that ADP-Fuse surpasses single-feature models and the feature fusion approach for the prediction of ADPs and their types. In addition, the SHapley Additive exPlanation method was used to elucidate the contributions of individual features to the prediction of ADPs and their types. Finally, a user-friendly web server for ADP-Fuse was developed and made publicly accessible (https://balalab-skku.org/ADP-Fuse), enabling the swift screening and identification of novel ADPs and their types. This framework is expected to contribute significantly to antidiabetic peptide identification.},
+  abstract={Diabetes mellitus has become a major public health concern associated with high mortality and reduced life expectancy and can cause blindness, heart attacks, kidney failure, lower limb amputations, and strokes. A new generation of antidiabetic peptides (ADPs) that act on β-cells or T-cells to regulate insulin production is being developed to alleviate the effects of diabetes. However, the lack of effective peptide-mining tools has hampered the discovery of these promising drugs. Hence, novel computational tools need to be developed urgently. In this study, we present ADP-Fuse, a novel two-layer prediction framework capable of accurately identifying ADPs or non-ADPs and categorizing them into type 1 and type 2 ADPs. First, we comprehensively evaluated 22 peptide sequence-derived features coupled with eight notable machine learning algorithms. Subsequently, the most suitable feature descriptors and classifiers for both layers were identified. The output of these single-feature models, embedded with multiview information, was trained with an appropriate classifier to provide the final prediction. Comprehensive cross-validation and independent tests substantiate that ADP-Fuse surpasses single-feature models and the feature fusion approach for the prediction of ADPs and their types. In addition, the SHapley Additive exPlanation method was used to elucidate the contributions of individual features to the prediction of ADPs and their types. Finally, a user-friendly web server for ADP-Fuse was developed and made publicly accessible (https://balalab-skku.org/ADP-Fuse), enabling the swift screening and identification of novel ADPs and their types. This framework is expected to contribute significantly to antidiabetic peptide identification.},
   html={https://www.sciencedirect.com/science/article/abs/pii/S001048252300851X},
   doi={10.1016/j.compbiomed.2023.107386},
   website={https://balalab-skku.org/ADP-Fuse/},
@@ -148,7 +148,6 @@
   doi={10.1016/j.heliyon.2023.e15749},
   pdf={https://www.cell.com/heliyon/pdf/S2405-8440(23)02956-0.pdf},
   code={https://github.com/nhattruongpham/Deep_Brain_SigNet},
-  selected={true},
   dimensions={true},
   preview={Humain_brain.jpg}
 }
@@ -168,14 +167,13 @@
   doi={10.1080/24751839.2023.2187278},
   pdf={https://www.tandfonline.com/doi/epdf/10.1080/24751839.2023.2187278?needAccess=true&role=button},
   code={https://github.com/nhattruongpham/osw-1d-prn-shap},
-  selected={true},
   dimensions={true},
   preview={osw-1d-prn-shap.jpeg}
 }
 
 @article{nguyen2023fruit,
   abbr={ESWA},
-  title={Fruit-cov: An efficient vision-based framework for speedy detection and diagnosis of sars-cov-2 infections through recorded cough sounds},
+  title={Fruit-CoV: An efficient vision-based framework for speedy detection and diagnosis of SARS-CoV-2 infections through recorded cough sounds},
   author={Nguyen, Long H and <b>Pham</b><sup>(*)(†)</sup>, <b>Nhat Truong</b> and Do, Van Huong and Nguyen, Liu Tai and Nguyen, Thanh Tin and Nguyen<sub>4</sub>, Hai and Nguyen<sub>2</sub>, Ngoc Duy and Nguyen<sub>3</sub>, Thanh Thi and Nguyen<sub>1</sub>, Sy Dzung and Bhatti, Asim and Lim, Chee Peng},
   journal={Expert Systems with Applications},
   volume={213},
@@ -302,6 +300,7 @@
   abstract={Monitoring the conditions of machines is vital in the manufacturing industry. Early detection of faulty components in machines for stopping and repairing the failed components can minimize the downtime of the machine. In this article, we present a method for detecting failures in drill machines using drill sounds in Valmet AB, a company in Sundsvall, Sweden that supplies equipment and processes for the production of pulp, paper, and biofuels. The drill dataset includes two classes: anomalous sounds and normal sounds. Detecting drill failure effectively remains a challenge due to the following reasons. The waveform of drill sound is complex and short for detection. Furthermore, in realistic soundscapes, both sounds and noise exist simultaneously. Besides, the balanced dataset is small to apply state-of-the-art deep learning techniques. Due to these aforementioned difficulties, sound augmentation methods were applied to increase the number of sounds in the dataset. In this study, a convolutional neural network (CNN) was combined with a long-short-term memory (LSTM) to extract features from log-Mel spectrograms and to learn global representations of two classes. A leaky rectified linear unit (Leaky ReLU) was utilized as the activation function for the proposed CNN instead of the ReLU. Moreover, an attention mechanism was deployed at the frame level after the LSTM layer to pay attention to the anomaly in sounds. As a result, the proposed method reached an overall accuracy of 92.62% to classify two classes of machine sounds on Valmet's dataset. In addition, an extensive experiment on another drilling dataset with short sounds yielded 97.47% accuracy. With multiple classes and long-duration sounds, an experiment utilizing the publicly available UrbanSound8K dataset obtains 91.45%. Extensive experiments on our dataset as well as publicly available datasets confirm the efficacy and robustness of our proposed method. For reproducing and deploying the proposed system, an open-source repository is publicly available at https://github.com/thanhtran1965/DrillFailureDetection_SciRep2022.},
   html={https://www.nature.com/articles/s41598-022-13237-7},
   doi={10.1038/s41598-022-13237-7},
+  selected={true},
   code={https://github.com/thanhtran1965/DrillFailureDetection_SciRep2022},
   dimensions={true},
   preview={SciRep.webp}
@@ -354,7 +353,6 @@
   html={https://ceur-ws.org/Vol-3199/},
   pdf={https://ceur-ws.org/Vol-3199/paper12.pdf},
   code={https://github.com/ngthanhtin/Memotion2_AAAI_WS_2022},
-  selected={true},
   dimensions={true},
   preview={Memotion2.png}
 }
@@ -388,6 +386,5 @@
   html={https://jaec.vn/index.php/JAEC/article/view/311},
   doi={10.25073/jaec.202044.311},
   pdf={https://jaec.vn/index.php/JAEC/article/view/311/147},
-  selected={true},
   dimensions={true}
 }
