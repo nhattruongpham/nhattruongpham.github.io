@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One manuscript entitled <b>"SER-Fuse: An Emotion Recognition Application Utilizing Multi-Modal, Multi-Lingual, and Multi-Feature Fusion"</b> has been accepted in <i>The 12th International Symposium on Information and Communication Technology (SoICT'23)</i>
+One manuscript entitled <b>"SER-Fuse: An Emotion Recognition Application Utilizing Multi-Modal, Multi-Lingual, and Multi-Feature Fusion"</b> has been accepted for publication in <i>The 12th International Symposium on Information and Communication Technology (SoICT'23)</i>

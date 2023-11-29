@@ -101,3 +101,27 @@
 "Lee":
   - firstname: ["Gwang"]
     url: https://scholar.google.com/citations?hl=en&user=DGTy5-EAAAAJ
+
+"Jeon":
+  - firstname: ["Young-Jun"]
+    url: https://scholar.google.com/citations?user=DkVnJ-wAAAAJ&hl=en
+
+"Lee":
+  - firstname: ["Sukchan"]
+    url: https://scholar.google.com/citations?user=rAPsFx0AAAAJ&hl=en
+
+"Shim":
+  - firstname: ["Jae Woong"]
+    url: https://scholar.google.com/citations?user=xl6iO0QAAAAJ&hl=en
+
+"Rakkiyapan":
+  - firstname: ["Rajan"]
+    url: https://scholar.google.com/citations?user=5WP7pOUAAAAJ&hl=en
+
+"Malik":
+  - firstname: ["Adeel"]
+    url: https://scholar.google.com/citations?user=IRshBmMAAAAJ&hl=en
+
+"Park":
+  - firstname: ["Jongsun"]
+    url: https://scholar.google.com/citations?hl=en&user=_YZClBgAAAAJ

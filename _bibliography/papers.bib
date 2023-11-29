@@ -1,6 +1,61 @@
 ---
 ---
 
+@article{pham2023h2opred,
+  abbr={BiB},
+  title={H2Opred: A Robust and Efficient Hybrid Deep Learning Model for Predicting 2'-O-Methylation Sites in Human RNA},
+  author={<b>Pham</b>, <b>Nhat Truong</b> and Rakkiyapan, Rajan and Park, Jongsun and Malik, Adeel and Manavalan, Balachandran},
+  journal={Briefings in Bioinformatics},
+  volume={},
+  number={},
+  pages={},
+  year={2023},
+  publisher={OxfOxford University Pressord},
+  abstract={2'-O-methylation (2OM) is the most common post-transcriptional modification of RNA. It plays a crucial role in RNA splicing, RNA stability, and innate immunity. Despite advances in high-throughput detection, the chemical stability of 2OM makes it difficult to detect and map in mRNA. Therefore, bioinformatics tools have been developed using machine learning (ML) algorithms to identify 2OM sites. These tools have made significant progress, but their performances remain unsatisfactory and need further improvement. In this study, we introduced H2Opred, a novel hybrid deep learning (HDL) model for accurately identifying 2OM sites in human RNA. Notably, this is the first application of HDL in developing nucleotide-specific models [adenine (A2OM), cytosine (C2OM), guanine (G2OM), uracil (U2OM)] as well as generic model (N2OM). H2Opred incorporated both stacked 1D convolutional neural network (1D-CNN) blocks and stacked attention-based bidirectional gated recurrent unit (Bi-GRU-Att) blocks. 1D-CNN blocks learned effective feature representations from 14 conventional descriptors, while Bi-GRU-Att blocks learned feature representations from five natural language processing (NLP)-based embeddings extracted from RNA sequences. H2Opred integrated these feature representations to make the final prediction. Rigorous cross-validation analysis demonstrated that H2Opred consistently outperforms conventional ML-based single-feature models on five different datasets. Moreover, the generic model of H2Opred demonstrated a remarkable performance on both training and testing datasets, significantly outperformed the existing predictors and other four nucleotide-specific H2Opred models. To enhance accessibility and usability, we have deployed a user-friendly web server for H2Opred, accessible at https://balalab-skku.org/H2Opred/. This platform will serve as an invaluable tool for accurately predicting 2OM sites within human RNA, thereby facilitating broader applications in relevant research endeavors.},
+  html={},
+  doi={10.1093/bib/},
+  website={https://balalab-skku.org/H2Opred/},
+  selected={true},
+  dimensions={true},
+  preview={H2Opred.jpeg}
+}
+
+@article{tran2023enhanced,
+  abbr={IET GTD},
+  title={Enhanced sliding mode controller design via meta-heuristic algorithm for robust and stable load frequency control in multi-area power systems},
+  author={Tran, Anh-Tuan and Duong, Minh Phuc and <b>Pham</b>, <b>Nhat Truong</b> and Shim, Jae Woong},
+  journal={IET Generation, Transmission & Distribution},
+  volume={},
+  number={},
+  pages={},
+  year={2023},
+  publisher={Wiley},
+  abstract={This article introduces a novel approach named HBA-dHoSMO, which combines a continuous decentralized higher-order sliding mode controller-based observer (dHoSMO) with the honey badger algorithm (HBA), specifically designed for load frequency control (LFC) in multi-area power systems (MAPSs). Traditional sliding mode controllers (SMCs) employed in LFC of MAPSs often face challenges related to chattering and oscillations, leading to decreased robustness and stability. Additionally, tuning the parameters for these SMC designs to achieve optimal performance in MAPSs can be challenging. The HBA-dHoSMO is proposed to address the issues of chattering and oscillations, while the optimal parameters for SMC design are obtained using HBA. The stability analysis of the entire system is conducted using linear matrix inequality and the Lyapunov stability theory, affirming the reliability and feasibility of the approach. A comprehensive set of case studies is performed under various configurations and conditions. Additionally, particle swarm optimization and tuna swarm optimization, in conjunction with SMC-based and proportional-integral-derivative controllers, are examined for performance comparison. Simulation results demonstrate the superior performance of the proposed controller across all case studies. This is evidenced by the lowest integral time absolute error values recorded as 0.0133, 0.0006, and 0.0167 for single-, two-, and three-area power systems, respectively.},
+  html={},
+  doi={},
+  dimensions={true},
+  preview={HBA-dHoSMO.png}
+}
+
+@article{pham2023advancing,
+  abbr={BiB},
+  title={Advancing the Accuracy of SARS-CoV-2 Phosphorylation Site Detection via Meta-Learning Approach},
+  author={<b>Pham</b>, <b>Nhat Truong</b> and Phan, Le Thi and Seo, Jimin and Kim, Yeonwoo and Song, Minkyung and Lee, Sukchan and Jeon, Young-Jun and Manavalan, Balachandran},
+  journal={Briefings in Bioinformatics},
+  volume={},
+  number={},
+  pages={bbad433},
+  year={2023},
+  publisher={OxfOxford University Pressord},
+  abstract={The worldwide appearance of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has generated significant concern and posed a considerable challenge to global health. Phosphorylation is a common post-translational modification that affects many vital cellular functions and is closely associated with SARS-CoV-2 infection. Precise identification of phosphorylation sites could provide more in-depth insight into the processes underlying SARS-CoV-2 infection and help alleviate the continuing coronavirus disease 2019 (COVID-19) crisis. Currently, available computational tools for predicting these sites lack accuracy and effectiveness. In this study, we designed an innovative meta-learning model, Meta-Learning for Serine/Threonine Phosphorylation (MeL-STPhos), to precisely identify protein phosphorylation sites. We initially performed a comprehensive assessment of 29 unique sequence-derived features, establishing prediction models for each using 14 renowned machine learning methods, ranging from traditional classifiers to advanced deep learning algorithms. We then selected the most effective model for each feature by integrating the predicted values. Rigorous feature selection strategies were employed to identify the optimal base models and classifier(s) for each cell-specific dataset. To the best of our knowledge, this is the first study to report two cell-specific models and a generic model for phosphorylation site prediction by utilizing an extensive range of sequence-derived features and machine learning algorithms. Extensive cross-validation and independent testing revealed that MeL-STPhos surpasses existing state-of-the-art tools for phosphorylation site prediction. We also developed a publicly accessible platform at https://balalab-skku.org/MeL-STPhos. We believe that MeL-STPhos will serve as a valuable tool for accelerating the discovery of serine/threonine phosphorylation sites and elucidating their role in post-translational regulation.},
+  html={},
+  doi={10.1093/bib/bbad433},
+  website={https://balalab-skku.org/MeL-STPhos/},
+  selected={true},
+  dimensions={true},
+  preview={MeL-STPhos.jpeg}
+}
+
 @inproceedings{ranjbar2022rate,
   abbr={INISCOM},
   title={Multi-modal Speech Emotion Recognition: Improving Accuracy Through Fusion of VGGish and BERT Features with Multi-head Attention},

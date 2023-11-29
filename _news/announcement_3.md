@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One manuscript entitled <b>"Towards an efficient machine learning model for financial time series forecasting"</b> has been accepted in <i>Soft Computing</i>
+One manuscript entitled <b>"Towards an efficient machine learning model for financial time series forecasting"</b> has been accepted for publication in <i>Soft Computing</i>
