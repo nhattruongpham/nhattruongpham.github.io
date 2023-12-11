@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One manuscript entitled <b>"ADP-Fuse: A novel two-layer machine learning predictor to identify antidiabetic peptides and diabetes types using multiview information"</b> has been accepted for publication in <i>Computers in Biology and Medicine</i>
+One manuscript entitled <b>"ADP-Fuse: A novel two-layer machine learning predictor to identify antidiabetic peptides and diabetes types using multiview information"</b> has been accepted for publication in <span style="color: #600;"><i>Computers in Biology and Medicine</i></span>
