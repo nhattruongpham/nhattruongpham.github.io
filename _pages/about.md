@@ -31,16 +31,16 @@ social: true
     width: 100%; /* Adjust the size as needed */
   }
   .reduce-gap {
-    margin-bottom: 0; /* Reducing bottom margin */
+    margin-bottom: 5; /* Reducing bottom margin */
   }
 </style>
 
 **Inspirational Quotes:**
 <blockquote class="no-margin reduce-gap">
 <p><q><i>Your origin does not determine what kind of person you are, only you can decide who you become.</i></q> - <a href="https://mengchih.com/about/">Meng Chih Chiang</a></p>
-<span><q><i>Life can be heavy, especially if you try to carry it all at once.</i></q> - Taylor Swift</span>
+<p><q><i>Life can be heavy, especially if you try to carry it all at once.</i></q> - Taylor Swift</p>
 </blockquote>
 
-<figure class="custom-figure">
+<figure class="custom-figure reduce-gap">
 <img src="assets/img/laboratory.gif" class="small-figure">
 </figure>
