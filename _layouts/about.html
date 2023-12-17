@@ -2,6 +2,11 @@
 layout: default
 ---
 
+<head>
+  <!-- CSS Style -->
+  <link rel="stylesheet" type="text/css" src="_sass/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" src="_sass/style.css" media="all">
+</head>
 <!-- about.html -->
       <div class="post">
         <header class="post-header">
@@ -39,6 +44,28 @@ layout: default
           <div class="clearfix">
             {{ content }}
           </div>
+
+          <section class="section">
+              <div class="section__home">
+                  <div class="container">
+                      <div class="row_header">
+                      </div>
+                      <div class="row">
+                          <div class="col-lg-1 col-sm-1"></div>
+                          <div class="col-lg-6 col-sm-6">
+                              <div class="big_logo">
+                                  <img class="bg-logo-5" src="assets/img/circle_5.png" alt="bg-logo">
+                                  <img class="bg-logo-4" src="assets/img/circle_4.png" alt="bg-logo">
+                                  <img class="bg-logo-2" src="assets/img/circle_2.png" alt="bg-logo">
+                                  <img class="bg-logo-10" src="assets/img/circle.png" alt="bg-logo">
+                                  <img class="bg-logo-7" src="assets/img/circle.png" alt="bg-logo">
+                                  <img class="bg-logo-9" src="assets/img/circle.png" alt="bg-logo">
+                                  <img class="bg-logo-3" src="assets/img/circle.png" alt="bg-logo">
+                                  <img class="lab-logo" src="assets/img/lab_exp.gif" alt="lab-logo"></img>
+                              </div>
+                          </div>
+                          <div class="col-lg-1 col-sm-1"></div>
+                      </div>
 
           <!-- Latest News -->
           {% if page.news and site.announcements.enabled -%}
