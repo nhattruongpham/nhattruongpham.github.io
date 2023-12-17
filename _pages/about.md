@@ -20,8 +20,27 @@ social: true
 
 **Research Interests:** Artificial Intelligence, Computational Intelligence, Deep Learning, Machine Learning, Signal Processing, XAI & Optimization, and their applications in the fields of Affective Computing, Audio & Speech Processing, Bioinformatics, Computational Biology & Medicine, Computer-aided Drug Design, Protein Design, and Protein Functional & Structural Prediction.
 
+<style>
+  .no-margin {
+    margin: 0;
+  }
+  .custom-figure {
+    margin-top: 0;
+  }
+  .small-figure {
+    width: 100%; /* Adjust the size as needed */
+  }
+  .reduce-gap {
+    margin-bottom: 0; /* Reducing bottom margin */
+  }
+</style>
+
 **Inspirational Quotes:**
-<blockquote>
+<blockquote class="no-margin reduce-gap">
 <p><q><i>Your origin does not determine what kind of person you are, only you can decide who you become.</i></q> - <a href="https://mengchih.com/about/">Meng Chih Chiang</a></p>
-<p><q><i>Life can be heavy, especially if you try to carry it all at once.</i></q> - Taylor Swift</p>
+<span><q><i>Life can be heavy, especially if you try to carry it all at once.</i></q> - Taylor Swift</span>
 </blockquote>
+
+<figure class="custom-figure">
+<img src="assets/img/lab_exp.gif" class="small-figure">
+</figure>
