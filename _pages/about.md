@@ -42,5 +42,5 @@ social: true
 </blockquote>
 
 <figure class="custom-figure">
-<img src="assets/img/lab_exp.gif" class="small-figure">
+<img src="assets/img/laboratory.gif" class="small-figure">
 </figure>
