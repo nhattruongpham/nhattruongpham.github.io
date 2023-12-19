@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Ph.D. Student in Integrative Biotechnology specializing in Computational Biology and Bioinformatics
+subtitle: Ph.D. Student in Integrative Biotechnology specializing in 🧬Computational Biology and Bioinformatics🧬
 
 profile:
   align: right
