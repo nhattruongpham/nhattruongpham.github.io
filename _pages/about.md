@@ -37,7 +37,7 @@ social: true
 
 **Inspirational Quotes:**
 <blockquote class="no-margin reduce-gap">
-<p><q><i>Your origin does not determine what kind of person you are, only you can decide who you become.</i></q> - <a href="https://mengchih.com/about/">Meng Chih Chiang</a></p>
+<p><q><i>Your origin does not determine what kind of person you are. Only you can decide who you become.</i></q> - <a href="https://mengchih.com/about/">Meng Chih Chiang</a></p>
 <p><q><i>Life can be heavy, especially if you try to carry it all at once.</i></q> - <a href="https://www.taylorswift.com/">Taylor Swift</a></p>
 <p><q><i>Life can be seen as a balance between positive and negative aspects throughout its entirety. Therefore, it's essential to cherish every moment and embrace life fully.</i></q> - <a href="https://nhattruongpham.github.io/">Nhat Truong Pham</a></p>
 </blockquote>
