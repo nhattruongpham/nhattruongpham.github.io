@@ -54,10 +54,6 @@
   - firstname: ["Abdulmotaleb"]
     url: https://scholar.google.com/citations?hl=en&user=VcOjgngAAAAJ
 
-"Shoombuatong":
-  - firstname: ["Watshara"]
-    url: https://scholar.google.com/citations?hl=en&user=B3cea18AAAAJ
-
 "Khan":
   - firstname: ["Mustaqeem"]
     url: https://scholar.google.com/citations?hl=en&user=uEZhRWAAAAAJ
@@ -94,22 +90,6 @@
   - firstname: ["Shaherin"]
     url: https://scholar.google.com/citations?user=2eqv0J4AAAAJ&hl=en
 
-"Song":
-  - firstname: ["Minkyung"]
-    url: https://scholar.google.com/citations?hl=en&user=sBSJfo4AAAAJ
-
-"Lee":
-  - firstname: ["Gwang"]
-    url: https://scholar.google.com/citations?hl=en&user=DGTy5-EAAAAJ
-
-"Jeon":
-  - firstname: ["Young-Jun"]
-    url: https://scholar.google.com/citations?user=DkVnJ-wAAAAJ&hl=en
-
-"Lee":
-  - firstname: ["Sukchan"]
-    url: https://scholar.google.com/citations?user=rAPsFx0AAAAJ&hl=en
-
 "Shim":
   - firstname: ["Jae Woong"]
     url: https://scholar.google.com/citations?user=xl6iO0QAAAAJ&hl=en
@@ -125,3 +105,7 @@
 "Park":
   - firstname: ["Jongsun"]
     url: https://scholar.google.com/citations?hl=en&user=_YZClBgAAAAJ
+
+"Tran":
+  - firstname: ["Phuong-Nam"]
+    url: https://scholar.google.com/citations?hl=en&user=NKbwDD8AAAAJ

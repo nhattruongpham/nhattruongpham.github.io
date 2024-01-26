@@ -1,71 +1,95 @@
 "BiB":
+  url: https://academic.oup.com/bib
   color: "#600"
 
 "ESWA":
+  url: https://www.sciencedirect.com/journal/expert-systems-with-applications
   color: "#600"
 
 "CIBM":
+  url: https://www.sciencedirect.com/journal/computers-in-biology-and-medicine
   color: "#600"
 
 "KBS":
+  url: https://www.sciencedirect.com/journal/knowledge-based-systems
   color: "#600"
 
 "SOCO":
+  url: https://link.springer.com/journal/500
   color: "#600"
 
 "IJBIOMAC":
+  url: https://www.sciencedirect.com/journal/international-journal-of-biological-macromolecules
   color: "#600"
 
 "Heliyon":
+  url: https://www.cell.com/heliyon/home
   color: "#600"
 
 "APIN":
+  url: https://link.springer.com/journal/10489
   color: "#600"
 
 "Sci Rep":
+  url: https://www.nature.com/srep/
   color: "#600"
 
 "JCC":
+  url: https://onlinelibrary.wiley.com/journal/1096987x
   color: "#600"
 
 "IEEE TFS":
+  url: https://cis.ieee.org/publications/t-fuzzy-systems
   color: "#600"
 
 "JAEC":
+  url: https://jaec.vn/index.php/JAEC
   color: "#600"
 
 "T&F JIT":
+  url: https://www.tandfonline.com/journals/tjit20
   color: "#600"
 
 "VLSP":
+  url: https://vlsp.org.vn/
   color: "#215d42"
 
 "ATC":
+  url: https://atc-conf.org/
   color: "#215d42"
 
 "GTSD":
+  url: https://gtsd2022.hcmute.edu.vn/
   color: "#215d42"
 
 "ICCE":
+  url: https://ieee-icce.org/
   color: "#215d42"
 
 "De-Factify":
+  url: https://defactify.com/
   color: "#215d42"
 
 "SSCI":
+  url: https://attend.ieee.org/ssci-2021/
   color: "#215d42"
 
 "ICIIT":
+  url: https://www.iciit.org/index.html
   color: "#215d42"
 
 "INISCOM":
+  url: https://iniscom.eai-conferences.org/
   color: "#215d42"
 
 "IET GTD":
+  url: https://ietresearch.onlinelibrary.wiley.com/journal/17518695
   color: "#600"
 
 "SOICT":
+  url: https://soict.org/
   color: "#215d42"
 
 "ICTC":
+  url: https://ictc.org/
   color: "#215d42"
