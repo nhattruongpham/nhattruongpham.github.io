@@ -9,22 +9,22 @@ nav_order: 3
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
-  # - align: right
-  #   image: CP_Lim.png
-  #   content: about_CP_Lim.md
-  #   image_circular: false # crops the image to make it circular
-  #   more_info: >
-  #   #   <p>555 your office number</p>
-  #   #   <p>123 your address street</p>
-  #   #   <p>Your City, State 12345</p>
-  # - align: left
-  #   image: ThTh_Nguyen.webp
-  #   content: about_ThTh_Nguyen.md
-  #   image_circular: false # crops the image to make it circular
-  #   more_info: >
-  #   #   <p>555 your office number</p>
-  #   #   <p>123 your address street</p>
-  #   #   <p>Your City, State 12345</p>
+  - align: right
+    image: CP_Lim.png
+    content: about_CP_Lim.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+    #   <p>555 your office number</p>
+    #   <p>123 your address street</p>
+    #   <p>Your City, State 12345</p>
+  - align: left
+    image: ThTh_Nguyen.webp
+    content: about_ThTh_Nguyen.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+    #   <p>555 your office number</p>
+    #   <p>123 your address street</p>
+    #   <p>Your City, State 12345</p>
   - align: right
     image: DNM_Dang.jpeg
     content: about_DNM_Dang.md
