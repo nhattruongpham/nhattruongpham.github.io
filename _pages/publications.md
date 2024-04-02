@@ -7,10 +7,10 @@ nav: true
 nav_order: 2
 ---
 <p>
-(*) denotes equal contribution
+(†) denotes equal contribution
 </p>
 <p>
-(†) denotes correspondance
+(*) denotes correspondance
 </p>
 <p>
 <span style="display: inline-block; width: 15px; height: 15px; background-color: #600;"></span> denotes journal
