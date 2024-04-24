@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-04-12
+date: 2024-04-18
 inline: true
 related_posts: false
 ---
 
-Our project, entitled <b>"Enhancing m6A RNA modification prediction across cell lines and tissues using biological language models and a contrastive learning framework"</b>, has been selected for the <span style="color: #F29105;"><i>High-Performance Computing Support Project</i></span> by the <a href="https://www.kait.or.kr/eng/user/index.do">Korea Association for ICT Promotion (KAIT)</a>, Republic of Korea
+One manuscript entitled <b>"<i>ac4C-AFL:</i> A high-precision identification of human mRNA N4-acetylcytidine sites based on adaptive feature representation learning"</b> has been accepted for publication in the <span style="color: #FF3636;"><i>Molecular Therapy - Nucleic Acids</i></span> journal
