@@ -63,10 +63,10 @@
             {%- if forloop.last and author_array_limit == author_array_size -%}and&nbsp;{%- endif -%}
           {%- endif -%}
           {%- if author_is_self -%}
-            <em>{{author.first}} {{author.last}}</em>
+            <em><b>{{author.first}} {{author.last}}</b></em>
           {%- else -%}
             {%- if coauthor_url -%}
-              <a href="{{coauthor_url}}">{{author.first}} {{author.last}}</a>
+              <a href="{{coauthor_url}}">{{author.first}} {{author.last   | remove: "§" | remove: "‡" | remove: "┤" | remove: "┴" | remove: "┬" | remove: "├"}}</a>
             {%- else -%}
               {{author.first}} {{author.last}}
             {%- endif -%}
@@ -111,9 +111,9 @@
         {% assign proceedings = "inproceedings,incollection" | split: ','%}
         {% assign thesis = "thesis,mastersthesis,phdthesis" | split: ','%}
         {% if entry.type == "article" -%}
-          {%- capture entrytype -%}<em>{{entry.journal}}</em>{%- endcapture -%}
+          {%- capture entrytype -%}<em><span style="color: #FF3636;"><i>{{entry.journal}}</i></span></em>{%- endcapture -%}
         {%- elsif proceedings contains entry.type -%}
-          {%- capture entrytype -%}<em>In {{entry.booktitle}}</em> {%- endcapture -%}
+          {%- capture entrytype -%}<em>In <span style="color: #00ab37;"><i>{{entry.booktitle}}</i></span></em>{%- endcapture -%}
         {%- elsif thesis contains entry.type -%}
           {%- capture entrytype -%}<em>{{entry.school}}</em> {%- endcapture -%}
         {%- else -%}
@@ -233,7 +233,7 @@
           {% if entry.bibtex_show -%}
           <!-- Hidden bibtex block -->
           <div class="bibtex hidden">
-            {% highlight bibtex %}{{ entry.bibtex | hideCustomBibtex }}{% endhighlight %}
+            {% highlight bibtex %}{{ entry.bibtex | remove: "¶" | remove: "&" | remove: "*" | remove: "†" | remove: "^" | remove: "<sup>" | remove: "</sup>" | remove: "(" | remove: ")" | remove: "<sub>" | remove: "</sub>" | remove: "<b>" | remove: "</b>" | remove: "§" | remove: "‡" | remove: "┤" | remove: "┴" | remove: "┬" | remove: "├" | remove: "<i>" | remove: "</i>" | remove: "<b>" | remove: "</b>" | hideCustomBibtex }}{% endhighlight %}
           </div>
           {%- endif %}
         </div>

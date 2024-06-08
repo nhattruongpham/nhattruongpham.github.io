@@ -6,10 +6,6 @@
   - firstname: ["Duc Ngoc Minh"]
     url: https://scholar.google.com/citations?user=2UKP440AAAAJ&hl=en
 
-"Nguyen1": 
-  - firstname: ["Sy Dzung"]
-    url: https://scholar.google.com/citations?user=XFUxOkoAAAAJ&hl=en
-
 "Lim":
   - firstname: ["Chee Peng"]
     url: https://scholar.google.com/citations?user=an_4IJkAAAAJ&hl=en
@@ -22,17 +18,29 @@
   - firstname: ["Douglas"]
     url: https://scholar.google.com/citations?user=oorbAhoAAAAJ&hl=en
 
-"Nguyen2": 
+"Nguyen§": 
+  - firstname: ["Sy Dzung"]
+    url: https://scholar.google.com/citations?user=XFUxOkoAAAAJ&hl=en
+
+"Nguyen‡": 
   - firstname: ["Ngoc Duy"]
     url: https://scholar.google.com/citations?user=At-Y-H8AAAAJ&hl=en
 
-"Nguyen3":
+"Nguyen┤":
   - firstname: ["Thanh Thi"]
     url: https://scholar.google.com/citations?user=xr39SOwAAAAJ&hl=en
 
-"Nguyen5":
+"Nguyen┴":
+  - firstname: ["Hai"]
+    url: https://scholar.google.com/citations?user=5b9ncWoAAAAJ&hl=en
+
+"Nguyen┬":
   - firstname: ["Trung Hai"]
     url: https://scholar.google.com/citations?user=a4xyHScAAAAJ&hl=en
+
+"Nguyen├":
+  - firstname: ["Thanh Tin"]
+    url: https://scholar.google.com/citations?user=zSAfD80AAAAJ&hl=en
 
 "Ngo":
   - firstname: ["Son Tung"]
@@ -66,10 +74,6 @@
   - firstname: ["Saurav"]
     url: https://scholar.google.com/citations?user=e-6kvkIAAAAJ&hl=en
 
-"Nguyen4":
-  - firstname: ["Hai"]
-    url: https://scholar.google.com/citations?user=5b9ncWoAAAAJ&hl=en
-
 "Mahmud":
   - firstname: ["Mufti"]
     url: https://scholar.google.com/citations?user=L8em2YoAAAAJ&hl=en
@@ -81,10 +85,6 @@
 "Kaiser":
   - firstname: ["Shamim"]
     url: https://scholar.google.com/citations?user=yjrSXiEAAAAJ&hl=en
-
-"Nguyen6":
-  - firstname: ["Thanh Tin"]
-    url: https://scholar.google.com/citations?user=zSAfD80AAAAJ&hl=en
 
 "Basith":
   - firstname: ["Shaherin"]
@@ -109,3 +109,23 @@
 "Tran":
   - firstname: ["Phuong-Nam"]
     url: https://scholar.google.com/citations?hl=en&user=NKbwDD8AAAAJ
+
+"Jeon":
+  - firstname: ["Young-Jun"]
+    url: https://scholar.google.com/citations?hl=en&user=DkVnJ-wAAAAJ
+
+"Song":
+  - firstname: ["Minkyung"]
+    url: https://scholar.google.com/citations?user=sBSJfo4AAAAJ&hl=en
+
+"Anh":
+  - firstname: ["Duong Tran"]
+    url: https://scholar.google.com/citations?hl=en&user=4MfplgUAAAAJ
+
+"Thanh":
+  - firstname: ["Phong Nguyen"]
+    url: https://scholar.google.com/citations?hl=en&user=PYCmxMQAAAAJ
+
+"Gagnon":
+  - firstname: ["Alexandre S", "Alexandre"]
+    url: https://scholar.google.com/citations?user=a-dNtokAAAAJ&hl=en

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One manuscript entitled <b>"<i>DrugormerDTI:</i> Drug Graphormer for drug--target interaction prediction"</b> has been accepted for publication in <span style="color: #FF3636;"><i>Computers in Biology and Medicine</i></span>
+One manuscript entitled <b>"<i>DrugormerDTI:</i> Drug Graphormer for drug--target interaction prediction"</b> has been accepted for publication in the <span style="color: #FF3636;"><i>Computers in Biology and Medicine</i></span> journal
