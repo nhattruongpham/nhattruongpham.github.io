@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One manuscript entitled <b>"<i>mACPpred 2.0:</i> Stacked deep learning for anticancer peptide prediction with integrated spatial and probabilistic feature representations"</b> has been accepted for publication in the <span style="color: #FF3636;"><i>Journal of Molecular Biology</i></span>
+One manuscript entitled <b>"<i>mACPpred 2.0:</i> Stacked Deep Learning for Anticancer Peptide Prediction with Integrated Spatial and Probabilistic Feature Representations"</b> has been accepted for publication in the <span style="color: #FF3636;"><i>Journal of Molecular Biology</i></span>
