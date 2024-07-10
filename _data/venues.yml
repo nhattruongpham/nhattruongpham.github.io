@@ -113,3 +113,7 @@
 "JMB":
   url: https://www.sciencedirect.com/journal/journal-of-molecular-biology
   color: "#600"
+
+"LPM":
+  url: https://language-plus-molecules.github.io/
+  color: "#215d42"
