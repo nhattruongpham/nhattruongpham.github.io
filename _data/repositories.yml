@@ -5,11 +5,12 @@ github_repos:
   - garlicdevs/Fruit-API
   - NinV/Korean-License-Plate-Recognition
   - ngthanhtin/VLSP_ImageCaptioning
-  - nhattruongpham/Fruit-CoV
-  - nhattruongpham/mvina
   - nhattruongpham/hda-adcrnn-ser
   - nhattruongpham/mmser
   - nhattruongpham/SER-Fuse
   - nhattruongpham/mACPpred2
   - nhattruongpham/mol-lang-bridge
-  
+  - tpnam0901/MemoCMT
+  - tpnam0901/4M-SER
+  - Phlogistic-Rain/MST-m6A
+  - nhattruongpham/XCT-Sars-CoV-2
