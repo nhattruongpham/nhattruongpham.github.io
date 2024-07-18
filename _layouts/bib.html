@@ -66,7 +66,7 @@
             <em><b>{{author.first}} {{author.last}}</b></em>
           {%- else -%}
             {%- if coauthor_url -%}
-              <a href="{{coauthor_url}}">{{author.first}} {{author.last   | remove: "§" | remove: "‡" | remove: "┤" | remove: "┴" | remove: "┬" | remove: "├"}}</a>
+              <a href="{{coauthor_url}}">{{author.first}} {{author.last   | remove: "§" | remove: "‡" | remove: "┤" | remove: "┴" | remove: "┬" | remove: "├" | remove: "£"}}</a>
             {%- else -%}
               {{author.first}} {{author.last}}
             {%- endif -%}
@@ -191,6 +191,11 @@
           {%- if entry.interview %}
             <a href="{{ entry.interview }}" class="btn btn-sm z-depth-0" role="button">Interview</a>
           {%- endif %}
+          {%- if entry.zenodo %}
+          <a href="https://doi.org/10.5281/zenodo.{{ entry.zenodo }}">
+            <img src="https://zenodo.org/badge/doi/10.5281/zenodo.{{ entry.zenodo }}.svg" alt="DOI">
+          </a>
+          {%- endif %}
           </div>
           {% if site.badges %}
           <div class="badges">
@@ -233,7 +238,7 @@
           {% if entry.bibtex_show -%}
           <!-- Hidden bibtex block -->
           <div class="bibtex hidden">
-            {% highlight bibtex %}{{ entry.bibtex | remove: "¶" | remove: "&" | remove: "*" | remove: "†" | remove: "^" | remove: "<sup>" | remove: "</sup>" | remove: "(" | remove: ")" | remove: "<sub>" | remove: "</sub>" | remove: "<b>" | remove: "</b>" | remove: "§" | remove: "‡" | remove: "┤" | remove: "┴" | remove: "┬" | remove: "├" | remove: "<i>" | remove: "</i>" | remove: "<b>" | remove: "</b>" | hideCustomBibtex }}{% endhighlight %}
+            {% highlight bibtex %}{{ entry.bibtex | remove: "¶" | remove: "&" | remove: "*" | remove: "†" | remove: "^" | remove: "<sup>" | remove: "</sup>" | remove: "(" | remove: ")" | remove: "<sub>" | remove: "</sub>" | remove: "<b>" | remove: "</b>" | remove: "§" | remove: "‡" | remove: "┤" | remove: "┴" | remove: "┬" | remove: "├" | remove: "£" | remove: "<i>" | remove: "</i>" | remove: "<b>" | remove: "</b>" | hideCustomBibtex }}{% endhighlight %}
           </div>
           {%- endif %}
         </div>
