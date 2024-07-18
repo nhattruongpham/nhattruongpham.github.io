@@ -106,7 +106,7 @@
   - firstname: ["Jongsun"]
     url: https://scholar.google.com/citations?hl=en&user=_YZClBgAAAAJ&view_op=list_works&sortby=pubdate
 
-"Tran":
+"Tran§":
   - firstname: ["Phuong-Nam"]
     url: https://scholar.google.com/citations?hl=en&user=NKbwDD8AAAAJ&view_op=list_works&sortby=pubdate
 
@@ -129,3 +129,15 @@
 "Gagnon":
   - firstname: ["Alexandre S", "Alexandre"]
     url: https://scholar.google.com/citations?hl=en&user=a-dNtokAAAAJ&view_op=list_works&sortby=pubdate
+
+"Tran‡":
+  - firstname: ["Duong Thanh"]
+    url: https://scholar.google.com/citations?hl=en&user=kz_chQ4AAAAJ&view_op=list_works&sortby=pubdate
+
+"Nguyen£":
+  - firstname: ["Nguyen Doan Hieu"]
+    url: https://scholar.google.com/citations?hl=en&user=-aEoZCgAAAAJ&view_op=list_works&sortby=pubdate
+
+"Jin":
+  - firstname: ["Junru"]
+    url: https://scholar.google.com/citations?hl=en&user=7Lw6yNYAAAAJ&view_op=list_works&sortby=pubdate
