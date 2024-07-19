@@ -3,7 +3,6 @@ github_users:
 
 github_repos:
   - garlicdevs/Fruit-API
-  - NinV/Korean-License-Plate-Recognition
   - ngthanhtin/VLSP_ImageCaptioning
   - nhattruongpham/hda-adcrnn-ser
   - nhattruongpham/mmser
@@ -14,3 +13,4 @@ github_repos:
   - tpnam0901/4M-SER
   - Phlogistic-Rain/MST-m6A
   - nhattruongpham/XCT-Sars-CoV-2
+  - nhattruongpham/WQI-XML
