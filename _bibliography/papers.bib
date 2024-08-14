@@ -1,17 +1,49 @@
 ---
 ---
 
+@inproceedings{le2024federated,
+  abbr={ICTC},
+  bibtex_show=True,
+  title={Federated Learning with U-Net for Brain Tumor Segmentation: Impact of Client Numbers and Data Distribution},
+  author={Le, Thu Thuy and Pham, Nhat Truong and Tran§, Phuong-Nam and Dang, Duc Ngoc Minh},
+  booktitle={2024 15th International Conference on Information and Communication Technology Convergence (ICTC)},
+  pages={1--1},
+  year={2024},
+  organization={IEEE},
+  abstract={Brain tumor segmentation plays a crucial role in diagnosis and treatment planning. However, sharing patient data for training deep learning models raises privacy concerns. In this paper, we propose a federated learning (FL) approach that utilizes a U-Net architecture for brain tumor segmentation. We evaluate the performance of federated U-Net models across different data distribution scenarios and varying numbers of clients. Specifically, we compare the effectiveness of two FL methods: Federated Averaging (FedAvg) and Federated Stochastic Gradient Descent (FedSGD). Through experiments conducted on the BraTS dataset, we observe that as the number of clients increases, the overall performance of the models tends to decrease. Moreover, we find that skewed data distribution often outperforms equal data division. Additionally, we consistently observe that FedAvg yields superior results compared to FedSGD. Our proposed approach enables hospitals to collaboratively train models on their local data without directly sharing sensitive information. This preserves patient privacy while ensuring accurate tumor segmentation. The results of our study underscore the significance of strategic data distribution in FL environments and provide valuable insights for optimizing FL strategies in medical imaging applications.},
+  html={},
+  doi={},
+  dimensions={true},
+  preview={FL_U-Net.png}
+}
+
+@inproceedings{tran2024towards,
+  abbr={ICTC},
+  bibtex_show=True,
+  title={Towards Real-time Vietnamese Traffic Sign Recognition on Embedded Systems},
+  author={Tran§, Phuong-Nam and Pham, Nhat Truong and Pham Van Hai, Nam and Phan, Duc Tai and Nguyen, Tuan Cuong and Dang, Duc Ngoc Minh},
+  booktitle={2024 15th International Conference on Information and Communication Technology Convergence (ICTC)},
+  pages={1--1},
+  year={2024},
+  organization={IEEE},
+  abstract={In recent years, AI development has brought many significant changes in various aspects of our daily lives. Integrating AI technology into various applications has revolutionized multiple domains, and one particularly vital area is traffic sign recognition, which significantly enhances driver safety. This paper presents an approach to traffic sign recognition specifically designed for the Jetson Nano 2GB device. By utilizing the YOLOv8 Nano model, the proposed approach achieves a remarkable frame rate of up to 32 frames per second (FPS). To optimize inference speed on Jetson with limited memory, the approach incorporates TensorRT and quantization techniques. In addition, this paper introduces a dataset called the Vietnamese Traffic Sign Detection Database 100 (VTSDB100). This dataset is an extension of the VTSDB46 dataset and encompasses a comprehensive collection of 100 different classes of traffic signs. These signs were captured in diverse locations within Ho Chi Minh City, Vietnam, providing a rich and diverse dataset for training and evaluating traffic sign recognition models. An extensive experiment and analysis are also conducted using various object detection methods on the VTSDB100 dataset. The findings highlight the potential of deploying the proposed approach on resource-constrained devices and provide valuable insights for further research and development in the field of AI-powered driver safety systems.},
+  html={},
+  doi={},
+  dimensions={true},
+  preview={VNese-TrafficSign.png}
+}
+
 @inproceedings{tran2024mollangvlm,
   abbr={LPM},
   bibtex_show=True,
   title={<b><i>Mol2Lang-{VLM}:</i></b> Vision- and Text-Guided Generative Pre-trained Language Models for Advancing Molecule Captioning through Multimodal Fusion},
   author={Tran‡<sup>(†)</sup>, Duong Thanh and Pham<sup>(†)</sup>, Nhat Truong and Nguyen£, Nguyen Doan Hieu and Manavalan, Balachandran},
-  booktitle={ACL 2024 Workshop Language + Molecules},
-  pages={},
+  booktitle={Proceedings of the 1st Workshop on Language + Molecules (L+ M 2024)},
+  pages={97--102},
   year={2024},
   abstract={This paper introduces Mol2Lang-VLM, an enhanced method for refining generative pre-trained language models for molecule captioning using multimodal features to achieve more accurate caption generation. Our approach leverages the encoder and decoder blocks of the Transformer-based architecture by introducing third sub-layers into both. Specifically, we insert sub-layers in the encoder to fuse features from SELFIES strings and molecular images, while the decoder fuses features from SMILES strings and their corresponding descriptions. Moreover, cross multi-head attention is employed instead of common multi-head attention to enable the decoder to attend to the encoder's output, thereby integrating the encoded contextual information for better and more accurate caption generation. Performance evaluation on the CheBI-20 and L+M-24 benchmark datasets demonstrates Mol2Lang-VLM's superiority, achieving higher accuracy and quality in caption generation compared to existing methods. Our code and pre-processed data are available at <a href="https://github.com/nhattruongpham/mol-lang-bridge/tree/mol2lang">https://github.com/nhattruongpham/mol-lang-bridge/tree/mol2lang/</a>.},
-  html={https://openreview.net/forum?id=ax8kYHfkNr},
-  pdf={https://openreview.net/pdf?id=ax8kYHfkNr},
+  html={https://aclanthology.org/2024.langmol-1.12/},
+  pdf={https://aclanthology.org/2024.langmol-1.12.pdf},
   code={https://github.com/nhattruongpham/mol-lang-bridge/tree/mol2lang},
   preview={Mol2Lang-VLM.png}
 }
@@ -21,12 +53,12 @@
   bibtex_show=True,
   title={<b><i>Lang2Mol-Diff:</i></b> A Diffusion-Based Generative Model for Language-to-Molecule Translation Leveraging SELFIES Molecular String Representation},
   author={Nguyen£<sup>(†)</sup>, Nguyen Doan Hieu and Pham<sup>(†)</sup>, Nhat Truong and Tran‡, Duong Thanh and Manavalan, Balachandran},
-  booktitle={ACL 2024 Workshop Language + Molecules},
-  pages={},
+  booktitle={Proceedings of the 1st Workshop on Language + Molecules (L+ M 2024)},
+  pages={128--134},
   year={2024},
   abstract={Generating <i>de novo</i> molecules from textual descriptions is challenging due to potential issues with molecule validity in SMILES representation and limitations of autoregressive models. This work introduces Lang2Mol-Diff, a diffusion-based language-to-molecule generative model using the SELFIES representation. Specifically, Lang2Mol-Diff leverages the strengths of two state-of-the-art molecular generative models: BioT5 and TGM-DLM. By employing BioT5 to tokenize the SELFIES representation, Lang2Mol-Diff addresses the validity issues associated with SMILES strings. Additionally, it incorporates a text diffusion mechanism from TGM-DLM to overcome the limitations of autoregressive models in this domain. To the best of our knowledge, this is the first study to leverage the diffusion mechanism for text-based <i>de novo</i> molecule generation using the SELFIES molecular string representation. Performance evaluation on the L+M-24 benchmark dataset shows that Lang2Mol-Diff outperforms all existing methods for molecule generation in terms of validity. Our code and pre-processed data are available at <a href="https://github.com/nhattruongpham/mol-lang-bridge/tree/lang2mol">https://github.com/nhattruongpham/mol-lang-bridge/tree/lang2mol/</a>.},
-  html={https://openreview.net/forum?id=j9q7lurl7T},
-  pdf={https://openreview.net/pdf?id=j9q7lurl7T},
+  html={https://aclanthology.org/2024.langmol-1.15/},
+  pdf={https://aclanthology.org/2024.langmol-1.15.pdf},
   code={https://github.com/nhattruongpham/mol-lang-bridge/tree/lang2mol},
   preview={Lang2Mol-Diff.png}
 }
