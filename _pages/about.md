@@ -35,6 +35,10 @@ social: true
   }
 </style>
 
+<figure class="custom-figure reduce-gap">
+<img src="assets/img/laboratory.gif" class="small-figure">
+</figure>
+
 **Inspirational Quotes:**
 <blockquote class="no-margin reduce-gap">
 <p><q><i>Your origin does not determine what kind of person you are. Only you can decide who you become.</i></q> - <a href="https://mengchih.com/about/">Meng Chih Chiang</a></p>
@@ -52,6 +56,6 @@ $$
 $$
 </center>
 
-<figure class="custom-figure reduce-gap">
+<!-- <figure class="custom-figure reduce-gap">
 <img src="assets/img/laboratory.gif" class="small-figure">
-</figure>
+</figure> -->
