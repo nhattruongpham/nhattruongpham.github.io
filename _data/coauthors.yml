@@ -12,11 +12,7 @@
 
 "Nahavandi":
   - firstname: ["Saeid"]
-    url: https://scholar.google.com/citations?hl=en&user=pagzIgsAAAAJ&view_op=list_works&sortby=pubdate
-
-"Creighton":
-  - firstname: ["Douglas"]
-    url: https://scholar.google.com/citations?hl=en&user=oorbAhoAAAAJ&view_op=list_works&sortby=pubdate
+    url: https://scholar.google.com/citations?hl=en&user=_VIKLjEAAAAJ&view_op=list_works&sortby=pubdate
 
 "Nguyen§": 
   - firstname: ["Sy Dzung"]
@@ -141,3 +137,23 @@
 "Jin":
   - firstname: ["Junru"]
     url: https://scholar.google.com/citations?hl=en&user=7Lw6yNYAAAAJ&view_op=list_works&sortby=pubdate
+
+"Le":
+  - firstname: ["Thu Thuy"]
+    url: https://scholar.google.com/citations?hl=en&user=l-bJWlcAAAAJ&view_op=list_works&sortby=pubdate
+
+"Tran┤":
+  - firstname: ["Anh-Tuan"]
+    url: https://scholar.google.com/citations?hl=en&user=xrvf7L4AAAAJ&view_op=list_works&sortby=pubdate
+
+"Othmani":
+  - firstname: ["Alice"]
+    url: https://scholar.google.com/citations?hl=en&user=nlonFkwAAAAJ&view_op=list_works&sortby=pubdate
+
+"Woo":
+  - firstname: ["Hyun Goo"]
+    url: https://scholar.google.com/citations?hl=en&user=oM75QQMAAAAJ&view_op=list_works&sortby=pubdate
+
+"Shah":
+  - firstname: ["Masaud"]
+    url: https://scholar.google.com/citations?hl=en&user=W5BcBWoAAAAJ&view_op=list_works&sortby=pubdate
