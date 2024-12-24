@@ -6,7 +6,7 @@ subtitle: Ph.D. candidate in Integrative Biotechnology specializing in 🧬Appli
 
 profile:
   align: right
-  image: profile.png
+  image: profile_since_2024.png
   image_circular: true
   address: >
     <p>Room 62105, Biotechnology and Bioengineering Building 2, Seobu-ro, Jangan-gu, Suwon-si, Gyeonggi-do, 16419, Republic of Korea</p>
