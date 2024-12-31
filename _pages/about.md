@@ -50,8 +50,8 @@ social: true
 $$
 \begin{align*}
 \text{Life} &= \int_{\text{birth}}^{\infty} \left(\frac{\text{Happiness} \times \text{Love} \times \text{Peace}}{\text{time}} - \frac{\text{Sadness} \times \text{Revenge} \times \text{Discord}}{\text{time}}\right) \, \text{dtime} \\
-&= \int_{\text{birth}}^{\rm{t_{2024}}} \left(\frac{\text{Happiness} \times \text{Love} \times \text{Peace}}{\text{time}} - \frac{\text{Sadness} \times \text{Revenge} \times \text{Discord}}{\text{time}}\right) \, \text{dtime} \\
-&\quad + \int_{\rm{t_{2024}}}^{\infty} \left(\frac{\text{Happiness}' \times \text{Love}' \times \text{Peace}'}{\text{time}} - \frac{\text{Sadness}' \times \text{Revenge}' \times \text{Discord}'}{\text{time}}\right) \, \text{dtime}
+&= \int_{\text{birth}}^{\rm{t_{2025}}} \left(\frac{\text{Happiness} \times \text{Love} \times \text{Peace}}{\text{time}} - \frac{\text{Sadness} \times \text{Revenge} \times \text{Discord}}{\text{time}}\right) \, \text{dtime} \\
+&\quad + \int_{\rm{t_{2025}}}^{\infty} \left(\frac{\text{Happiness}' \times \text{Love}' \times \text{Peace}'}{\text{time}} - \frac{\text{Sadness}' \times \text{Revenge}' \times \text{Discord}'}{\text{time}}\right) \, \text{dtime}
 \end{align*}
 $$
 </center>
