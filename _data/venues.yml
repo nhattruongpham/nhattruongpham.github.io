@@ -66,7 +66,7 @@
   url: https://ieee-icce.org/
   color: "#215d42"
 
-"De-Factify":
+"DE-FACTIFY@AAAI":
   url: https://defactify.com/
   color: "#215d42"
 
@@ -114,6 +114,21 @@
   url: https://www.sciencedirect.com/journal/journal-of-molecular-biology
   color: "#600"
 
-"LPM":
+"LPM@ACL":
   url: https://language-plus-molecules.github.io/
   color: "#215d42"
+
+"ACM-MMAsia":
+  url: https://www.acmmmasia.org/
+  color: "#215d42"
+
+"Preprint":
+  color: "#0d93bf"
+
+"HSJ":
+  url: https://www.tandfonline.com/journals/thsj20
+  color: "#600"
+
+"OE":
+  url: https://www.sciencedirect.com/journal/ocean-engineering
+  color: "#600"

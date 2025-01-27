@@ -1,6 +1,8 @@
 github_users:
   - nhattruongpham
 
+repo_description_lines_max: 3
+
 github_repos:
   - garlicdevs/Fruit-API
   - NinV/Korean-License-Plate-Recognition
@@ -10,6 +12,15 @@ github_repos:
   - nhattruongpham/SER-Fuse
   - nhattruongpham/mACPpred2
   - nhattruongpham/mol-lang-bridge
-  - oggyfaker/HuBERT-CLAP
+  - tpnam0901/MemoCMT
+  - tpnam0901/4M-MER
   - cbbl-skku-org/MST-m6A
   - nhattruongpham/XCT-COVID
+  - JeonRPM/DOGpred
+  - nhattruongpham/WQI-XML
+  - oggyfaker/HuBERT-CLAP
+  - cbbl-skku-org/XMolCap
+  - aita-lab/awesome-multimodal-fusion-emotion-recognition
+  - tpnam0901/QTSeg
+  - cbbl-skku-org/HyPepTox-Fuse
+  - cbbl-skku-org/xBitterT5

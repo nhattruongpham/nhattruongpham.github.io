@@ -11,7 +11,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: Ph.D. candidate in Integrative Biotechnology
+    - title: Ph.D. Candidate in Integrative Biotechnology
       institution: Sungkyunkwan University, Suwon, Republic of Korea
       year: 2023 - Now
       description:
@@ -72,6 +72,10 @@
         - <i>Cognitive Computation</i>
         - <i>Methods</i>
         - <i>IEEE Transactions on Affective Computing</i>
+        - <i>Quantum Information Processing</i>
+        - <i>BMC Medical Genomics</i>
+        - <i>Computing</i>
+        - <i>Artificial Intelligence Review</i>
     - title: <u>Reviewer for Conferences/Workshops:</u>
       items:
         - <i>International Joint Conference on Neural Networks</i>
@@ -82,6 +86,7 @@
         - <i>NeurIPS 2023 Workshop on Generative AI and Biology (GenBio@NeurIPS2023)</i>
         - <i>ICLR 2024 Workshop on Generative and Experimental Perspectives for BioMolecular Design (GEM@ICLR2024)</i>
         - <i>ICML 2024 Workshop on AI for Science (ICML2024-AI4Science)</i>
+        - <i>ICLR 2025 Workshop on Generative and Experimental Perspectives for Biomolecular Design (GEM@ICLR2025)</i>
     - title: <u>Technical Program Committee:</u>
       items:
         - <i>International Joint Conference on Neural Networks</i>
@@ -94,6 +99,7 @@
 - title: Professional Memberships
   type: list
   contents:
+    - Biophysical Society (Student Member), since 2025
     - IEEE Engineering in Medicine and Biology Society, since 2024
     - ACM (Graduate Student Member), since 2022
     - IEEE Computational Intelligence Society, since 2022

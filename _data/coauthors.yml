@@ -157,3 +157,35 @@
 "Shah":
   - firstname: ["Masaud"]
     url: https://scholar.google.com/citations?hl=en&user=W5BcBWoAAAAJ&view_op=list_works&sortby=pubdate
+
+"Vo":
+  - firstname: ["Bay"]
+    url: https://scholar.google.com/citations?hl=en&user=UBGqPDYAAAAJ&view_op=list_works&sortby=pubdate
+
+"Luu":
+  - firstname: ["Phuc-Loi"]
+    url: https://scholar.google.com/citations?hl=en&user=KPIqpJsAAAAJ&view_op=list_works&sortby=pubdate
+
+"Hong":
+  - firstname: ["Choong Seon"]
+    url: https://scholar.google.com/citations?hl=en&user=oKANWloAAAAJ&view_op=list_works&sortby=pubdate
+
+"Huh":
+  - firstname: ["Eui-Nam"]
+    url: https://scholar.google.com/citations?hl=en&user=0ATpZl0AAAAJ&view_op=list_works&sortby=pubdate
+
+"Duong-Tran":
+  - firstname: ["Duy"]
+    url: https://scholar.google.com/citations?hl=en&user=m_qvsgoAAAAJ&view_op=list_works&sortby=pubdate
+
+"Shen":
+  - firstname: ["Li"]
+    url: https://scholar.google.com/citations?hl=en&user=QnWpiskAAAAJ&view_op=list_works&sortby=pubdate
+
+"Naik":
+  - firstname: ["Mayur"]
+    url: https://scholar.google.com/citations?hl=en&user=fmsV6nEAAAAJ&view_op=list_works&sortby=pubdate
+
+"Li":
+  - firstname: ["Ziyang"]
+    url: https://scholar.google.com/citations?hl=en&user=tROyBasAAAAJ&view_op=list_works&sortby=pubdate
