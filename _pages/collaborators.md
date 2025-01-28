@@ -40,7 +40,7 @@ profiles:
     image_circular: true # crops the image to make it circular
 
   - align: right
-    image: people/Shu_Yang.png
+    image: people/shu_yang.png
     content: people/about_Shu_Yang.md
     image_circular: true # crops the image to make it circular
 
@@ -55,7 +55,7 @@ profiles:
     image_circular: true # crops the image to make it circular
 
   - align: right
-    image: people/Phong_NT.png
+    image: people/Phong_NT.jpg
     content: people/about_Phong_NT.md
     image_circular: true # crops the image to make it circular
 
