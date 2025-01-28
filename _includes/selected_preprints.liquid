@@ -1,0 +1,15 @@
+<div class="publications">
+  <p>
+  (†) denotes equal contribution
+  </p>
+  <p>
+  (*) denotes correspondance
+  </p>
+  <p>
+  <span style="display: inline-block; width: 15px; height: 15px; background-color: #0d93bf;"></span> denotes preprint
+  </p>
+  {% bibliography --group_by year --query @*[selected=true,preprint=true]* %}
+  <hr>
+  <hr>
+</div>
+
