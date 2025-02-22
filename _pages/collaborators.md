@@ -10,7 +10,7 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
-    image: people/CP_Lim.png
+    image: people/CP_Lim.jpg
     content: people/about_CP_Lim.md
     image_circular: true # crops the image to make it circular
 
@@ -42,6 +42,16 @@ profiles:
   - align: right
     image: people/shu_yang.png
     content: people/about_Shu_Yang.md
+    image_circular: true # crops the image to make it circular
+
+  - align: right
+    image: people/A_El_Saddik.jpeg
+    content: people/about_A_El_Saddik.md
+    image_circular: true # crops the image to make it circular
+
+  - align: right
+    image: people/A_Othmani.jpeg
+    content: people/about_A_Othmani.md
     image_circular: true # crops the image to make it circular
 
   - align: right
