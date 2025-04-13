@@ -76,6 +76,8 @@
         - <i>BMC Medical Genomics</i>
         - <i>Computing</i>
         - <i>Artificial Intelligence Review</i>
+        - <i>BMC Genomics</i>
+        - <i>BMC Veterinary Research</i>
     - title: <u>Reviewer for Conferences/Workshops:</u>
       items:
         - <i>International Joint Conference on Neural Networks</i>
@@ -87,6 +89,7 @@
         - <i>ICLR 2024 Workshop on Generative and Experimental Perspectives for BioMolecular Design (GEM@ICLR2024)</i>
         - <i>ICML 2024 Workshop on AI for Science (ICML2024-AI4Science)</i>
         - <i>ICLR 2025 Workshop on Generative and Experimental Perspectives for Biomolecular Design (GEM@ICLR2025)</i>
+        - <i>ICML 2025 Workshop on Generative AI and Biology (GenBio@ICML2025)</i>
     - title: <u>Technical Program Committee:</u>
       items:
         - <i>International Joint Conference on Neural Networks</i>
@@ -99,7 +102,8 @@
 - title: Professional Memberships
   type: list
   contents:
-    - Biophysical Society (Student Member), since 2025
+    - Biophysical Society (Student Member), 2025
+    - Association for Computational Linguistics (Student Member), 2024
     - IEEE Engineering in Medicine and Biology Society, since 2024
     - ACM (Graduate Student Member), since 2022
     - IEEE Computational Intelligence Society, since 2022
