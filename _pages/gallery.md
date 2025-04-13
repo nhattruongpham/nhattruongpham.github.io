@@ -14,4 +14,13 @@ children:
   - title: divider
   - title: ACL-24
     permalink: /acl24/
+  - title: divider
+  - title: AiTA-25
+    permalink: /aita25/
+  - title: divider
+  - title: BPS-AM-25
+    permalink: /bpsam25/
+  - title: divider
+  - title: AiTA-CBBL-25
+    permalink: /aitacbbl25/
 ---
