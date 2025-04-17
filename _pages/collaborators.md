@@ -60,13 +60,18 @@ profiles:
     image_circular: true # crops the image to make it circular
 
   - align: right
-    image: people/tpnam0901.png
-    content: people/about_PN_Tran.md
+    image: people/Duong_TA.jpeg
+    content: people/about_Duong_TA.md
     image_circular: true # crops the image to make it circular
 
   - align: right
     image: people/Phong_NT.jpg
     content: people/about_Phong_NT.md
+    image_circular: true # crops the image to make it circular
+
+  - align: right
+    image: people/tpnam0901.png
+    content: people/about_PN_Tran.md
     image_circular: true # crops the image to make it circular
 
   - align: right
