@@ -40,7 +40,7 @@ social: true
 ---
 
 <figure class="custom-figure reduce-gap">
-<img src="assets/img/laboratory.gif" class="small-figure">
+<img src="/assets/img/laboratory.gif" class="small-figure">
 </figure>
 
 ---
