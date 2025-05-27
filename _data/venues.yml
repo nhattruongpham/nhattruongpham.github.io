@@ -132,3 +132,7 @@
 "OE":
   url: https://www.sciencedirect.com/journal/ocean-engineering
   color: "#600"
+
+"IEEE JBHI":
+  url: https://www.embs.org/jbhi/
+  color: "#600"
