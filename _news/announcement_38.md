@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-01-10
+date: 2025-01-16
 inline: true
 related_posts: false
 ---
 
-One collaborative manuscript entitled <b>"Enhancing daily runoff forecasting in hydropower basins with a voting ensemble model using historical data"</b> has been accepted for publication in the <span style="color: #FF3636;"><i>Hydrological Sciences Journal</i></span>
+One collaborative manuscript entitled <b>"Hydraulic performance and wave transmission through nature-inspired perforated hollow-base piles breakwater"</b> has been accepted for publication in the <span style="color: #FF3636;"><i>Ocean Engineering</i></span> journal

@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-01-16
+date: 2025-01-29
 inline: true
 related_posts: false
 ---
 
-One collaborative manuscript entitled <b>"Hydraulic performance and wave transmission through nature-inspired perforated hollow-base piles breakwater"</b> has been accepted for publication in the <span style="color: #FF3636;"><i>Ocean Engineering</i></span> journal
+One manuscript entitled <b>"<i>DOGpred:</i> A Novel Deep Learning Framework for Accurate Identification of Human O-linked Threonine Glycosylation Sites"</b> has been accepted for publication in the <span style="color: #FF3636;"><i>Journal of Molecular Biology</i></span>

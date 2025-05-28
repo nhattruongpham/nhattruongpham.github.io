@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-01-29
+date: 2025-02-04
 inline: true
 related_posts: false
 ---
 
-One manuscript entitled <b>"<i>DOGpred:</i> A Novel Deep Learning Framework for Accurate Identification of Human O-linked Threonine Glycosylation Sites"</b> has been accepted for publication in the <span style="color: #FF3636;"><i>Journal of Molecular Biology</i></span>
+One collaborative manuscript entitled <b>"<i>MemoCMT:</i> multimodal emotion recognition using cross-modal transformer-based feature fusion"</b> has been accepted for publication in the <span style="color: #FF3636;"><i>Scientific Reports</i></span> journal

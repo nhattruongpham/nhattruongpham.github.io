@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-02-04
+date: 2025-02-20
 inline: true
 related_posts: false
 ---
 
-One collaborative manuscript entitled <b>"<i>MemoCMT:</i> multimodal emotion recognition using cross-modal transformer-based feature fusion"</b> has been accepted for publication in the <span style="color: #FF3636;"><i>Scientific Reports</i></span> journal
+<u><i><b>Received the Caregen Chung Yong-ji Scholarship (케어젠정용지장학금(일반원))</b></i></u>

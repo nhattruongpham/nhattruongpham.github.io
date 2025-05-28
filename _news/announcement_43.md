@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-02-21
+date: 2025-05-15
 inline: true
 related_posts: false
 ---
 
-<u><i><b>Received the University Innovation - Awards and Living Expenses (대학혁신-포상및생활비(일반원))</b></i></u>
+One manuscript entitled <b>"<i>XMolCap:</i> Advancing Molecular Captioning through Multimodal Fusion and Explainable Graph Neural Networks"</b> has been accepted for publication in the <span style="color: #FF3636;"><i>IEEE Journal of Biomedical and Health Informatics</i></span>
