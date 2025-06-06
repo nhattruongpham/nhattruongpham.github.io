@@ -106,10 +106,6 @@
   url: https://journals.plos.org/plosone/
   color: "#600"
 
-"EMA":
-  url: https://link.springer.com/journal/10661
-  color: "#600"
-
 "JMB":
   url: https://www.sciencedirect.com/journal/journal-of-molecular-biology
   color: "#600"
@@ -127,10 +123,6 @@
 
 "HSJ":
   url: https://www.tandfonline.com/journals/thsj20
-  color: "#600"
-
-"OE":
-  url: https://www.sciencedirect.com/journal/ocean-engineering
   color: "#600"
 
 "IEEE JBHI":

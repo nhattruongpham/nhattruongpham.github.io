@@ -10,10 +10,6 @@
   - firstname: ["Chee Peng"]
     url: https://scholar.google.com/citations?hl=en&user=an_4IJkAAAAJ&view_op=list_works&sortby=pubdate
 
-"Nahavandi":
-  - firstname: ["Saeid"]
-    url: https://scholar.google.com/citations?hl=en&user=_VIKLjEAAAAJ&view_op=list_works&sortby=pubdate
-
 "Nguyen§": 
   - firstname: ["Sy Dzung"]
     url: https://scholar.google.com/citations?hl=en&user=XFUxOkoAAAAJ&view_op=list_works&sortby=pubdate
@@ -50,10 +46,6 @@
   - firstname: ["Leyi"]
     url: https://scholar.google.com/citations?hl=en&user=0EAV03MAAAAJ&view_op=list_works&sortby=pubdate
 
-"Natesan":
-  - firstname: ["Srinivasan"]
-    url: https://scholar.google.com/citations?hl=en&user=WPdTWisAAAAJ&view_op=list_works&sortby=pubdate
-
 "El Saddik":
   - firstname: ["Abdulmotaleb"]
     url: https://scholar.google.com/citations?hl=en&user=VcOjgngAAAAJ&view_op=list_works&sortby=pubdate
@@ -62,57 +54,17 @@
   - firstname: ["Mustaqeem"]
     url: https://scholar.google.com/citations?hl=en&user=uEZhRWAAAAAJ&view_op=list_works&sortby=pubdate
 
-"Zhao":
-  - firstname: ["Zhongming"]
-    url: https://scholar.google.com/citations?hl=en&user=eDRMnHQAAAAJ&view_op=list_works&sortby=pubdate
-
-"Mallik":
-  - firstname: ["Saurav"]
-    url: https://scholar.google.com/citations?hl=en&user=e-6kvkIAAAAJ&view_op=list_works&sortby=pubdate
-
-"Mahmud":
-  - firstname: ["Mufti"]
-    url: https://scholar.google.com/citations?hl=en&user=L8em2YoAAAAJ&view_op=list_works&sortby=pubdate
-
-"Kim":
-  - firstname: ["Yong-Guk"]
-    url: https://scholar.google.com/citations?hl=en&user=gGfbXFIAAAAJ&view_op=list_works&sortby=pubdate
-
-"Kaiser":
-  - firstname: ["Shamim"]
-    url: https://scholar.google.com/citations?hl=en&user=yjrSXiEAAAAJ&view_op=list_works&sortby=pubdate
-
 "Basith":
   - firstname: ["Shaherin"]
     url: https://scholar.google.com/citations?hl=en&user=2eqv0J4AAAAJ&view_op=list_works&sortby=pubdate
-
-"Shim":
-  - firstname: ["Jae Woong"]
-    url: https://scholar.google.com/citations?hl=en&user=xl6iO0QAAAAJ&view_op=list_works&sortby=pubdate
 
 "Rakkiyappan":
   - firstname: ["Rajan"]
     url: https://scholar.google.com/citations?hl=en&user=5WP7pOUAAAAJ&view_op=list_works&sortby=pubdate
 
-"Malik":
-  - firstname: ["Adeel"]
-    url: https://scholar.google.com/citations?hl=en&user=IRshBmMAAAAJ&view_op=list_works&sortby=pubdate
-
-"Park":
-  - firstname: ["Jongsun"]
-    url: https://scholar.google.com/citations?hl=en&user=_YZClBgAAAAJ&view_op=list_works&sortby=pubdate
-
 "Tran§":
   - firstname: ["Phuong-Nam"]
     url: https://scholar.google.com/citations?hl=en&user=NKbwDD8AAAAJ&view_op=list_works&sortby=pubdate
-
-"Jeon":
-  - firstname: ["Young-Jun"]
-    url: https://scholar.google.com/citations?hl=en&user=DkVnJ-wAAAAJ&view_op=list_works&sortby=pubdate
-
-"Song":
-  - firstname: ["Minkyung"]
-    url: https://scholar.google.com/citations?hl=en&user=sBSJfo4AAAAJ&view_op=list_works&sortby=pubdate
 
 "Anh":
   - firstname: ["Duong Tran"]
@@ -122,10 +74,6 @@
   - firstname: ["Phong Nguyen"]
     url: https://scholar.google.com/citations?hl=en&user=PYCmxMQAAAAJ&view_op=list_works&sortby=pubdate
 
-"Gagnon":
-  - firstname: ["Alexandre S", "Alexandre"]
-    url: https://scholar.google.com/citations?hl=en&user=a-dNtokAAAAJ&view_op=list_works&sortby=pubdate
-
 "Tran‡":
   - firstname: ["Duong Thanh"]
     url: https://scholar.google.com/citations?hl=en&user=kz_chQ4AAAAJ&view_op=list_works&sortby=pubdate
@@ -134,14 +82,6 @@
   - firstname: ["Nguyen Doan Hieu"]
     url: https://scholar.google.com/citations?hl=en&user=-aEoZCgAAAAJ&view_op=list_works&sortby=pubdate
 
-"Jin":
-  - firstname: ["Junru"]
-    url: https://scholar.google.com/citations?hl=en&user=7Lw6yNYAAAAJ&view_op=list_works&sortby=pubdate
-
-"Le":
-  - firstname: ["Thu Thuy"]
-    url: https://scholar.google.com/citations?hl=en&user=l-bJWlcAAAAJ&view_op=list_works&sortby=pubdate
-
 "Tran┤":
   - firstname: ["Anh-Tuan"]
     url: https://scholar.google.com/citations?hl=en&user=xrvf7L4AAAAJ&view_op=list_works&sortby=pubdate
@@ -149,23 +89,3 @@
 "Othmani":
   - firstname: ["Alice"]
     url: https://scholar.google.com/citations?hl=en&user=nlonFkwAAAAJ&view_op=list_works&sortby=pubdate
-
-"Woo":
-  - firstname: ["Hyun Goo"]
-    url: https://scholar.google.com/citations?hl=en&user=oM75QQMAAAAJ&view_op=list_works&sortby=pubdate
-
-"Shah":
-  - firstname: ["Masaud"]
-    url: https://scholar.google.com/citations?hl=en&user=W5BcBWoAAAAJ&view_op=list_works&sortby=pubdate
-
-"Hong":
-  - firstname: ["Choong Seon"]
-    url: https://scholar.google.com/citations?hl=en&user=oKANWloAAAAJ&view_op=list_works&sortby=pubdate
-
-"Huh":
-  - firstname: ["Eui-Nam"]
-    url: https://scholar.google.com/citations?hl=en&user=0ATpZl0AAAAJ&view_op=list_works&sortby=pubdate
-
-"Karki":
-  - firstname: ["Rajendra"]
-    url: https://scholar.google.co.kr/citations?hl=en&user=i1p2LF0AAAAJ&view_op=list_works&sortby=pubdate
