@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-01-29
+date: 2025-02-21
 inline: true
 related_posts: false
 ---
 
-One manuscript entitled <b>"<i>DOGpred:</i> A Novel Deep Learning Framework for Accurate Identification of Human O-linked Threonine Glycosylation Sites"</b> has been accepted for publication in the <span style="color: #FF3636;"><i>Journal of Molecular Biology</i></span>
+<u><i><b>Received the University Innovation - Awards and Living Expenses (대학혁신-포상및생활비(일반원))</b></i></u>

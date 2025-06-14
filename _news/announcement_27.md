@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-07-07
+date: 2024-09-30
 inline: true
 related_posts: false
 ---
 
-Two manuscripts entitled <b>"<i>Mol2Lang-VLM:</i> Vision- and Text-Guided Generative Pre-trained Language Models for Advancing Molecule Captioning through Multimodal Fusion"</b> and <b><i>"Lang2Mol-Diff:</i> A Diffusion-Based Generative Model for Language-to-Molecule Translation Leveraging SELFIES Representation"</b> have been accepted for publication in the <span style="color: #00ab37;"><i>Proceedings of the 1st Workshop on Language + Molecules (L+M 2024)</i></span>
+Our project, entitled <b>"Accurate Liver Pathology Identification via Dual-stream Graph Convolutional Networks (이중 스트림 그래프 합성곱 신경망을 통한 정확한 간 병리 식별)"</b>, has been selected for the <span style="color: #F29105;"><i>2024 3rd K-BDS analysis infrastructure utilization support program ([Track I] Large innovation research)</i></span> by the <a href="https://kbdsc.kisti.re.kr/index">Korea Bio Data Station (K-BDS)</a>, <a href="https://www.kisti.re.kr/eng/">Korea Institute of Science and Technology Information</a>, Republic of Korea

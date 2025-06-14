@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-05-29
+date: 2024-06-09
 inline: true
 related_posts: false
 ---
 
-One collaborative manuscript entitled <b>"<i>Meta-2OM:</i> A multi-classifier meta-model for the accurate prediction of RNA 2'-O-methylation sites in human RNA"</b> has been accepted for publication in the <span style="color: #FF3636;"><i>PLOS ONE</i></span> journal
+One collaborative manuscript entitled <b>"<i>SEP-AlgPro:</i> An efficient allergen prediction tool utilizing traditional machine learning and deep learning techniques with protein language model features"</b> has been accepted for publication in the <span style="color: #FF3636;"><i>International Journal of Biological Macromolecules</i></span>

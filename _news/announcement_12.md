@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-11-27
+date: 2023-11-28
 inline: true
 related_posts: false
 ---
 
-One collaborative manuscript entitled <b>"Enhanced sliding mode controller design via meta-heuristic algorithm for robust and stable load frequency control in multi-area power systems"</b> has been accepted for publication in the <span style="color: #FF3636;"><i>IET Generation, Transmission & Distribution</i></span> journal
+One manuscript entitled <b>"<i>H2Opred:</i> a robust and efficient hybrid deep learning model for predicting 2'-O-methylation sites in human RNA"</b> has been accepted for publication in the <span style="color: #FF3636;"><i>Briefings in Bioinformatics</i></span> journal

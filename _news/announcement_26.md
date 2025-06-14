@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-07-06
+date: 2024-08-13
 inline: true
 related_posts: false
 ---
 
-One manuscript entitled <b>"<i>HOTGpred:</i> Enhancing human O-linked threonine glycosylation prediction using integrated pretrained protein language model-based features and multi-stage feature selection approach"</b> has been accepted for publication in the <span style="color: #FF3636;"><i>Computers in Biology and Medicine</i></span> journal
+Two collaborative manuscripts entitled <b>"Federated Learning with U-Net for Brain Tumor Segmentation: Impact of Client Numbers and Data Distribution"</b> and <b>"Towards Real-time Vietnamese Traffic Sign Recognition on Embedded Systems"</b> have been accepted for publication in the <span style="color: #00ab37;"><i>2024 15th International Conference on Information and Communication Technology Convergence (ICTC)</i></span>

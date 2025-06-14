@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-07-01
+date: 2023-08-14
 inline: true
 related_posts: false
 ---
 
-<u><i><b>Released new officially personal website</b></i></u>
+One collaborative manuscript entitled <b>"<i>ADP-Fuse:</i> A novel two-layer machine learning predictor to identify antidiabetic peptides and diabetes types using multiview information"</b> has been accepted for publication in the <span style="color: #FF3636;"><i>Computers in Biology and Medicine</i></span> journal

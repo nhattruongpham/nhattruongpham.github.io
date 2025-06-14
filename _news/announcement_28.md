@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-08-13
+date: 2024-10-04
 inline: true
 related_posts: false
 ---
 
-Two collaborative manuscripts entitled <b>"Federated Learning with U-Net for Brain Tumor Segmentation: Impact of Client Numbers and Data Distribution"</b> and <b>"Towards Real-time Vietnamese Traffic Sign Recognition on Embedded Systems"</b> have been accepted for publication in the <span style="color: #00ab37;"><i>2024 15th International Conference on Information and Communication Technology Convergence (ICTC)</i></span>
+One collaborative manuscript entitled <b>"<i>HuBERT-CLAP:</i> Contrastive Learning-Based Multimodal Emotion Recognition using Self-Alignment Approach"</b> has been accepted for publication in the <span style="color: #00ab37;"><i>MMAsia '24: Proceedings of the 6th ACM International Conference on Multimedia in Asia</i></span>

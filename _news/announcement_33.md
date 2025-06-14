@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-11-20
+date: 2024-12-18
 inline: true
 related_posts: false
 ---
 
-One manuscript entitled <b>"Leveraging deep transfer learning and explainable AI for accurate COVID-19 diagnosis: Insights from a multi-national chest CT scan study"</b> has been accepted for publication in the <span style="color: #FF3636;"><i>Computers in Biology and Medicine</i></span> journal
+One preprint entitled <b>"Multi-modal fusion in speech emotion recognition: A comprehensive review of methods and technologies"</b> has been submitted to <span style="color: #0d93bf;"><i>SSRN</i></span>

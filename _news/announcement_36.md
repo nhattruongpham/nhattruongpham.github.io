@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-12-23
+date: 2025-01-29
 inline: true
 related_posts: false
 ---
 
-One preprint entitled <b>"<i>QTSeg:</i> A Query Token-Based Architecture for Efficient 2D Medical Image Segmentation"</b> has been submitted to <span style="color: #0d93bf;"><i>arXiv</i></span>
+One manuscript entitled <b>"<i>DOGpred:</i> A Novel Deep Learning Framework for Accurate Identification of Human O-linked Threonine Glycosylation Sites"</b> has been accepted for publication in the <span style="color: #FF3636;"><i>Journal of Molecular Biology</i></span>

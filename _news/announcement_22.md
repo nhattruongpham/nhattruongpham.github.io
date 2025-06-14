@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-06-06
+date: 2024-06-20
 inline: true
 related_posts: false
 ---
 
-One collaborative manuscript entitled <b>"Predicting drought stress under climate change in the Southern Central Highlands of Vietnam"</b> has been accepted for publication in the <span style="color: #FF3636;"><i>Environmental Monitoring and Assessment</i></span> journal
+One manuscript entitled <b>"<i>mACPpred 2.0:</i> Stacked Deep Learning for Anticancer Peptide Prediction with Integrated Spatial and Probabilistic Feature Representations"</b> has been accepted for publication in the <span style="color: #FF3636;"><i>Journal of Molecular Biology</i></span>
