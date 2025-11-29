@@ -6,7 +6,7 @@
     - name: Languages
       value: Vietnamese, English, Korean
     - name: Emails
-      value: truongpham96@skku.edu; phamnhattruong@ieee.org; phamnhattruong.skyo@gmail.com
+      value: truongpham96@skku.edu; phamnhattruong.skyo@gmail.com
 
 - title: Education
   type: time_table
@@ -15,18 +15,18 @@
       institution: Sungkyunkwan University, Suwon, Republic of Korea
       year: 2023 - Now
       description:
-        - Advised by Professor <a href="https://skb.skku.edu/eng_gene/faculty.do?mode=view&perId=LZStrB4DgrAqgzgNgwgGQCwGkAuArAigEQE4BCA5gHYBmMAnkQLw1A">Balachandran Manavalan</a>
+        - Advised by Associate Professor <a href="https://skb.skku.edu/eng_gene/faculty.do?mode=view&perId=LZStrB4DgrAqgzgNgwgGQCwGkAuArAigEQE4BCA5gHYBmMAnkQLw1A">Balachandran Manavalan</a>
     - title: M.E. in Automation and Control
       institution: Ton Duc Thang University, Ho Chi Minh City, Vietnam
       year: 2019 - 2021
       description:
         - Advised by Dr. <a href="https://sites.google.com/view/nguyensydzung">Sy Dzung Nguyen</a>
-        - Co-advised by Dr. <a href="https://dnmduc.github.io/">Duc Ngoc Minh Dang</a>
+        - Co-advised by Associate Professor <a href="https://dnmduc.github.io/">Duc Ngoc Minh Dang</a>
     - title: B.E. in Electronics and Telecommunication
       institution: Ton Duc Thang University, Ho Chi Minh City, Vietnam
       year: 2014 - 2019
       description:
-        - Advised by Dr. <a href="https://dnmduc.github.io/">Duc Ngoc Minh Dang</a>
+        - Advised by Associate Professor <a href="https://dnmduc.github.io/">Duc Ngoc Minh Dang</a>
 
 - title: Experience
   type: time_table
@@ -76,13 +76,29 @@
         - <i>BMC Genomics</i>
         - <i>BMC Veterinary Research</i>
         - <i>IEEE Transactions on Biomedical Engineering</i>
-        - <i>PLOS ONE</i>
+        - <i>PLOS One</i>
         - <i>Discover Artificial Intelligence</i>
         - <i>IEEE Journal of Biomedical and Health Informatics</i>
         - <i>IEEE Sensors Journal</i>
         - <i>Journal of Computer-Aided Molecular Design</i>
         - <i>IEEE Transactions on Consumer Electronics</i>
         - <i>Advances in Electrical and Electronic Engineering</i>
+        - <i>Journal of Data, Information and Management</i>
+        - <i>Array</i>
+        - <i>International Journal of Imaging Systems and Technology</i>
+        - <i>Automatika - Journal for Control, Measurement, Electronics, Computing and Communications</i>
+        - <i>Journal of Chemical Information and Modeling</i>
+        - <i>ACM Transactions on Computing for Healthcare</i>
+        - <i>IEEE Communications Letters</i>
+        - <i>Journal of Computational Biology</i>
+        - <i>Computational and Structural Biotechnology Journal</i>
+        - <i>PLOS Computational Biology</i>
+        - <i>Discover Computing</i>
+        - <i>Neurocomputing</i>
+        - <i>ACM Transactions on Multimedia Computing Communications and Applications</i>
+        - <i>World Journal of Microbiology and Biotechnology</i>
+        - <i>Briefings in Bioinformatics</i>
+        - <i>Journal of Biomolecular Structure & Dynamics</i>
     - title: <u>Reviewer for Conferences/Workshops:</u>
       items:
         - <i>International Joint Conference on Neural Networks</i>
@@ -95,6 +111,7 @@
         - <i>ICML 2024 Workshop on AI for Science (ICML2024-AI4Science)</i>
         - <i>ICLR 2025 Workshop on Generative and Experimental Perspectives for Biomolecular Design (GEM@ICLR2025)</i>
         - <i>ICML 2025 Workshop on Generative AI and Biology (GenBio@ICML2025)</i>
+        - <i>NeurIPS 2025 Workshop on Structured Probabilistic Inference & Generative Modeling (SPIGM@NeurIPS2025)</i>
     - title: <u>Technical Program Committee:</u>
       items:
         - <i>International Joint Conference on Neural Networks</i>
