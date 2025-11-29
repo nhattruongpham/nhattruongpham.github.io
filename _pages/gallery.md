@@ -26,4 +26,7 @@ children:
   - title: divider
   - title: ACS-Nano-AEM-25
     permalink: /acsnanom25/
+  - title: divider
+  - title: ISAAC-25
+    permalink: /isaac25/
 ---
