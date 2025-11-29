@@ -25,22 +25,12 @@ profiles:
     image_circular: true # crops the image to make it circular
 
   - align: right
-    image: people/ltthuy.png
+    image: people/ltthuy.jpg
     content: people/about_TT_Le.md
     image_circular: true # crops the image to make it circular
 
   - align: right
     image: people/NM_Nguyen.jpg
     content: people/about_NM_Nguyen.md
-    image_circular: true # crops the image to make it circular
-
-  - align: right
-    image: people/Kang_DaHyun.jpg
-    content: people/about_Kang_DaHyun.md
-    image_circular: true # crops the image to make it circular
-
-  - align: right
-    image: people/Seo_HoJin.jpg
-    content: people/about_Seo_HoJin.md
     image_circular: true # crops the image to make it circular
 ---
