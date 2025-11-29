@@ -22,6 +22,10 @@
   - firstname: ["Thanh Thi"]
     url: https://scholar.google.com/citations?hl=en&user=xr39SOwAAAAJ&view_op=list_works&sortby=pubdate
 
+"Nahavandi":
+  - firstname: ["Saeid"]
+    url: https://scholar.google.com/citations?hl=en&user=pagzIgsAAAAJ&view_op=list_works&sortby=pubdate
+
 "Nguyen┴":
   - firstname: ["Hai"]
     url: https://scholar.google.com/citations?hl=en&user=5b9ncWoAAAAJ&view_op=list_works&sortby=pubdate
@@ -46,14 +50,6 @@
   - firstname: ["Leyi"]
     url: https://scholar.google.com/citations?hl=en&user=0EAV03MAAAAJ&view_op=list_works&sortby=pubdate
 
-"El Saddik":
-  - firstname: ["Abdulmotaleb"]
-    url: https://scholar.google.com/citations?hl=en&user=VcOjgngAAAAJ&view_op=list_works&sortby=pubdate
-
-"Khan":
-  - firstname: ["Mustaqeem"]
-    url: https://scholar.google.com/citations?hl=en&user=uEZhRWAAAAAJ&view_op=list_works&sortby=pubdate
-
 "Basith":
   - firstname: ["Shaherin"]
     url: https://scholar.google.com/citations?hl=en&user=2eqv0J4AAAAJ&view_op=list_works&sortby=pubdate
@@ -61,18 +57,6 @@
 "Rakkiyappan":
   - firstname: ["Rajan"]
     url: https://scholar.google.com/citations?hl=en&user=5WP7pOUAAAAJ&view_op=list_works&sortby=pubdate
-
-"Tran§":
-  - firstname: ["Phuong-Nam"]
-    url: https://scholar.google.com/citations?hl=en&user=NKbwDD8AAAAJ&view_op=list_works&sortby=pubdate
-
-"Anh":
-  - firstname: ["Duong Tran"]
-    url: https://scholar.google.com/citations?hl=en&user=4MfplgUAAAAJ&view_op=list_works&sortby=pubdate
-
-"Thanh":
-  - firstname: ["Phong Nguyen"]
-    url: https://scholar.google.com/citations?hl=en&user=PYCmxMQAAAAJ&view_op=list_works&sortby=pubdate
 
 "Tran‡":
   - firstname: ["Duong Thanh"]
@@ -82,10 +66,6 @@
   - firstname: ["Nguyen Doan Hieu"]
     url: https://scholar.google.com/citations?hl=en&user=-aEoZCgAAAAJ&view_op=list_works&sortby=pubdate
 
-"Tran┤":
-  - firstname: ["Anh-Tuan"]
-    url: https://scholar.google.com/citations?hl=en&user=xrvf7L4AAAAJ&view_op=list_works&sortby=pubdate
-
-"Othmani":
-  - firstname: ["Alice"]
-    url: https://scholar.google.com/citations?hl=en&user=nlonFkwAAAAJ&view_op=list_works&sortby=pubdate
+"Karki":
+  - firstname: ["Rajendra"]
+    url: https://scholar.google.com/citations?hl=en&user=i1p2LF0AAAAJ&view_op=list_works&sortby=pubdate

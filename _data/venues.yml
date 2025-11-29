@@ -22,10 +22,6 @@
   url: https://www.sciencedirect.com/journal/international-journal-of-biological-macromolecules
   color: "#600"
 
-"Heliyon":
-  url: https://www.cell.com/heliyon/home
-  color: "#600"
-
 "APIN":
   url: https://link.springer.com/journal/10489
   color: "#600"
@@ -82,10 +78,6 @@
   url: https://iniscom.eai-conferences.org/
   color: "#215d42"
 
-"IET GTD":
-  url: https://ietresearch.onlinelibrary.wiley.com/journal/17518695
-  color: "#600"
-
 "SOICT":
   url: https://soict.org/
   color: "#215d42"
@@ -121,10 +113,18 @@
 "Preprint":
   color: "#0d93bf"
 
-"HSJ":
-  url: https://www.tandfonline.com/journals/thsj20
-  color: "#600"
-
 "IEEE JBHI":
   url: https://www.embs.org/jbhi/
+  color: "#600"
+
+"JPA":
+  url: https://www.sciencedirect.com/journal/journal-of-pharmaceutical-analysis
+  color: "#600"
+
+"JCheminf":
+  url: https://jcheminf.biomedcentral.com/
+  color: "#600"
+
+"HAZMAT":
+  url: https://www.journals.elsevier.com/journal-of-hazardous-materials
   color: "#600"
