@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Protein
+title: Computational and AI-based frameworks for proteins
 permalink: /protein/
 ---
 

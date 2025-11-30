@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Peptide
+title: Computational and AI-based frameworks for peptides
 permalink: /peptide/
 ---
 

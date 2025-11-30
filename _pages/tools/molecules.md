@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Molecules
+title: Computational and AI-based frameworks for molecules
 permalink: /molecules/
 ---
 <div class="row">

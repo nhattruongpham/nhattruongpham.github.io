@@ -1,6 +1,6 @@
 ---
 layout: page
-title: RNA
+title: Computational and AI-based frameworks for RNA
 permalink: /rna/
 ---
 

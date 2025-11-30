@@ -1,6 +1,6 @@
 ---
 layout: page
-title: DNA
+title: Computational and AI-based frameworks for DNA
 permalink: /dna/
 ---
 Coming soon!!!

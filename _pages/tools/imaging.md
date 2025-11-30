@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Imaging
+title: Computational and AI-based frameworks for medical imaging
 permalink: /imaging/
 ---
 Coming soon!!!
