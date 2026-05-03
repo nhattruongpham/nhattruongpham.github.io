@@ -20,7 +20,7 @@ profiles:
     image_circular: true # crops the image to make it circular
 
   - align: right
-    image: people/ndhieunguyen.png
+    image: people/ndhieunguyen.jpg
     content: people/about_ND_HieuNguyen.md
     image_circular: true # crops the image to make it circular
 
@@ -32,5 +32,10 @@ profiles:
   - align: right
     image: people/NM_Nguyen.jpg
     content: people/about_NM_Nguyen.md
+    image_circular: true # crops the image to make it circular
+
+  - align: right
+    image: people/DT_Phan.jpg
+    content: people/about_DT_Phan.md
     image_circular: true # crops the image to make it circular
 ---
