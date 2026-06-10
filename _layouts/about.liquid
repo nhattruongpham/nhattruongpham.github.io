@@ -86,8 +86,20 @@ layout: default
     {% if site.newsletter.enabled and site.footer_fixed %}
       {% include scripts/newsletter.liquid center=true %}
     {% endif %}
-    <div style="width: 150px; margin: 0 auto">
-      <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=RuxfKWte4G6yKP1jx6GjTKLxpqdoMdFm-CPzvceTJNY"></script>
+    <div id="mmvst_wrapper" style="width: 150px; margin: 0 auto">
+      <script type="text/javascript" id="mmvst_globe" src="https://mapmyvisitors.com/globe.js?d=iHX1T0p3xFG-VW5QELjDJv0p0DNTIh-c8tNlsNSu0rU&cl=ffffff&w=a"></script>
+
+      <script type="text/javascript">
+        new MutationObserver((mutations, observer) => {
+          const container = document.getElementById('mmvst_wrapper');
+          const generatedLink = container.querySelector('a');
+          if (generatedLink) {
+            generatedLink.setAttribute('target', '_blank');
+            generatedLink.setAttribute('rel', 'noopener noreferrer'); // Recommended for security & performance
+            observer.disconnect(); // Stop looking once modified
+          }
+        }).observe(document.getElementById('mmvst_wrapper'), { childList: true, subtree: true });
+      </script>
     </div>
   </article>
 </div>
