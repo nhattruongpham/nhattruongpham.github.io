@@ -249,6 +249,12 @@
       {% if entry.website %}
         <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
       {% endif %}
+      {% if entry.server %}
+        <a href="{{ entry.server }}" class="btn btn-sm z-depth-0" role="button">Web server</a>
+      {% endif %}
+      {% if entry.package %}
+        <a href="{{ entry.package }}" class="btn btn-sm z-depth-0" role="button">Package</a>
+      {% endif %}
       {%- if entry.media %}
         <a href="{{ entry.media }}" class="btn btn-sm z-depth-0" role="button">Media</a>
       {%- endif %}

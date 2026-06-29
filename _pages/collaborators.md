@@ -15,7 +15,7 @@ profiles:
     image_circular: true # crops the image to make it circular
 
   - align: right
-    image: people/ThTh_Nguyen.png
+    image: people/ThTh_Nguyen.jpeg
     content: people/about_ThTh_Nguyen.md
     image_circular: true # crops the image to make it circular
 

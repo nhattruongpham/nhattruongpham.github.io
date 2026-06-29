@@ -125,6 +125,22 @@
   url: https://jcheminf.biomedcentral.com/
   color: "#600"
 
+"EAAI":
+  url: https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence
+  color: "#600"
+
+"IEEE-BigData":
+  url: https://bigdataieee.org/
+  color: "#215d42"
+
 "HAZMAT":
   url: https://www.journals.elsevier.com/journal-of-hazardous-materials
+  color: "#600"
+
+"JGR":
+  url: https://www.sciencedirect.com/journal/journal-of-ginseng-research
+  color: "#600"
+
+"ADVEI":
+  url: https://www.sciencedirect.com/journal/advanced-engineering-informatics
   color: "#600"

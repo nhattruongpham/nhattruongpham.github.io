@@ -10,6 +10,18 @@ nav_order: 5
 <div class="row">
     <div class="col-lg-6 col-md-8 d-flex align-items-stretch mt-4 container2 w-150" data-aos="zoom-in" data-aos-delay="100">
         <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center box box-light-mode box-dark-mode">
+            <h4><a href="https://github.com/cbbl-skku-org/CONTRA-IL6" class="link-light-mode link-dark-mode"><b><i>CONTRA-IL6</i></b></a></h4>
+            <p class="text-light-mode text-dark-mode">an interpretable hybrid convolutional neural network and Transformer framework for accurate prediction of interleukin-6-inducing peptides using protein language models</p>
+        </div>
+    </div>
+    <div class="col-lg-6 col-md-8 d-flex align-items-stretch mt-4 container2 w-150" data-aos="zoom-in" data-aos-delay="100">
+        <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center box box-light-mode box-dark-mode">
+            <h4><a href="https://github.com/cbbl-skku-org/GinDB-AI" class="link-light-mode link-dark-mode"><b><i>GinDB-AI</i></b></a></h4>
+            <p class="text-light-mode text-dark-mode">An integrated ginsenoside database and AI-driven platform for multidimensional information and biological activity prediction</p>
+        </div>
+    </div>
+    <div class="col-lg-6 col-md-8 d-flex align-items-stretch mt-4 container2 w-150" data-aos="zoom-in" data-aos-delay="100">
+        <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center box box-light-mode box-dark-mode">
             <h4><a href="https://github.com/cbbl-skku-org/Mulaqua" class="link-light-mode link-dark-mode"><b><i>Mulaqua</i></b></a></h4>
             <p class="text-light-mode text-dark-mode">An interpretable multimodal deep learning framework for identifying PMT/vPvM substances in drinking water</p>
         </div>

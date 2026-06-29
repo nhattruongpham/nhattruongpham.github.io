@@ -1,6 +1,65 @@
 ---
 ---
 
+@article{le2026federated,
+  abbr={ADVEI},
+  bibtex_show={true},
+  title={Federated learning for medical image analysis: Methods, challenges, and future directions},
+  author={Le, Thu Thuy and Tran, Phuong-Nam and Pham, Nhat Truong and Manavalan, Balachandran and Shen, Li and Hong, Choong Seon and Dang, Duc Ngoc Minh},
+  journal={Advanced Engineering Informatics},
+  volume={76},
+  pages={104976},
+  year={2026},
+  publisher={Elsevier},
+  abstract={In recent years, rapid technological advances have made artificial intelligence a global trend, significantly advancing the fields of medicine and healthcare. Meanwhile, concerns about information security and medical data privacy have also increased. Although many studies have collected data from hospitals to train centralized models, data sharing between medical facilities is often restricted and protected by law. Federated learning (FL) emerges as a promising solution, enabling model training across different medical facilities without sharing raw data, thereby safeguarding patient privacy and ensuring data security. Our study reviews key works on FL in medical image analysis (MIA) from 2020 to 2025. We systematically analyze major challenges, including data heterogeneity, non-independent and identically distributed data, missing labels, communication costs, and privacy risks during model updates. Additionally, this review covers emerging approaches such as semi-supervised learning, unsupervised learning, domain shift learning, advanced deep learning architectures, and personalized models within the context of FL. We aim to provide a comprehensive overview of the current research landscape, methods for addressing these challenges, and future directions for FL in MIA.},
+  html={https://www.sciencedirect.com/science/article/pii/S1474034626006683},
+  doi={10.1016/j.aei.2026.104976},
+  published={true},
+  selected={true},
+  preview={FL_MedIA_Survey.png}
+}
+
+@article{tran2026contra,
+  abbr={BiB},
+  bibtex_show={true},
+  title={<b><i>CONTRA-IL6:</i></b> an interpretable hybrid convolutional neural network and Transformer framework for accurate prediction of interleukin-6-inducing peptides using protein language models},
+  author={Tran‡, Duong Thanh and Pham, Nhat Truong and Lee, Gwang and Basith, Shaherin and Manavalan, Balachandran},
+  journal={Briefings in Bioinformatics},
+  volume={27},
+  number={3},
+  pages={bbag250},
+  year={2026},
+  publisher={Oxford University Press},
+  abstract={Interleukin-6 (IL-6) is a key immunomodulatory cytokine implicated in diverse physiological processes and pathological conditions, including autoimmune diseases, cancers, and cytokine storms. Immunogenic peptides capable of inducing IL-6 expression are key modulators of host immune responses and represent promising candidates for therapeutic design and epitope-based vaccine development. However, experimental identification of IL-6-inducing peptides remains laborious and unsuitable for large-scale screening. Although existing computational approaches show promise, many often struggle to capture both global contextual semantics and local motif-level features essential for peptide immunogenicity. To address these limitations, we present CONTRA-IL6, a novel deep learning framework that integrates Transformer fusion and convolutional localization modules with stacked pretrained protein language model embeddings to predict IL-6-inducing peptides. Comprehensive benchmarking on an independent dataset demonstrates that CONTRA-IL6 achieves superior predictive performance over six state-of-the-art predictors. Notably, it achieves the highest Matthews correlation coefficient (MCC, 0.504) and F1 (0.549) and improves over the best-performing existing method by 3.2% in MCC and 4.3% in F1, demonstrating balanced and robust performance. Feature space visualizations (uniform manifold approximation and projection, kernel density estimation) showed clear class separation, while 1D gradient-weighted class activation mapping++ highlighted strong attention to specific C-terminal regions. Crucially, we moved beyond these attribution methods by employing in silico mutagenesis, which causally confirmed the functional importance and physicochemical constraints. Ablation studies further confirmed the synergistic contribution of global and local modules to model performance. CONTRA-IL6 offers a robust, scalable, and interpretable solution for immunoinformatics research. The standalone package is freely available at <a href="https://pypi.org/project/contra-il6/">https://pypi.org/project/contra-il6/</a> to facilitate broader community use.},
+  html={https://academic.oup.com/bib/article/27/3/bbag250/8706539},
+  doi={10.1093/bib/bbag250},
+  pdf={CONTRA-IL6.pdf},
+  code={https://github.com/cbbl-skku-org/CONTRA-IL6/},
+  package={https://pypi.org/project/contra-il6/},
+  published={true},
+  preview={CONTRA-IL6.png}
+}
+
+@article{nguyen2026gindb,
+  abbr={JGR},
+  bibtex_show={true},
+  title={<b><i>GinDB-AI:</i></b> An integrated ginsenoside database and AI-driven platform for multidimensional information and biological activity prediction},
+  author={Nguyen£, Nguyen Doan Hieu and Sangaraju, Vinoth Kumar and Tran‡, Duong Thanh and Pham, Nhat Truong and Cho, Jae Youl and Manavalan, Balachandran},
+  journal={Journal of Ginseng Research},
+  volume={50},
+  number={3},
+  pages={100986},
+  year={2026},
+  publisher={Elsevier},
+  abstract={GinDB is a comprehensive database containing 753 standardized ginsenosides with curated and corrected data from 1963 to 2024. Integrated with GinDB-AI, a deep learning module for predicting bioactivity and physicochemical properties, the platform enables rapid structure-activity analysis and visualization. The freely accessible resource accelerates ginsenoside-based drug discovery and natural product research.},
+  html={https://www.sciencedirect.com/science/article/pii/S1226845326000126},
+  doi={10.1016/j.jgr.2026.100986},
+  code={https://github.com/cbbl-skku-org/GinDB-AI/},
+  server={https://balalab-skku.org/GinDB-AI/},
+  published={true},
+  preview={GinDB-AI.jpg}
+}
+
 @article{nguyen2025mulaqua,
   abbr={HAZMAT},
   bibtex_show={true},
@@ -19,7 +78,24 @@
   preview={Mulaqua.jpg}
 }
 
-@article{khater2025generative,
+@inproceedings{le2025federated,
+  abbr={IEEE-BigData},
+  bibtex_show={true},
+  title={Federated Semi-Supervised FixMatch: Enhancing CutMix for Medical Image Segmentation},
+  author={Le, Thu Thuy and Nguyen, Nhut Minh and Pham, Nhat Truong and Tran, Phuong-Nam and Nguyen£, Nguyen Doan Hieu and Vo, Phuong Luu and Manavalan, Balachandran and Duc Ngoc Minh Dang},
+  booktitle={2025 IEEE International Conference on Big Data (BigData)},
+  pages={3462--3471},
+  year={2025},
+  organization={IEEE},
+  abstract={Previous studies on federated learning (FL) often assume that each client has access to fully labeled data. In reality, however, most hospitals and clinical facilities lack sufficient labeled data, as annotation is costly and requires highly skilled experts. The key challenge, therefore, is how to effectively train FL models when only a small portion of data at each client is labeled. Federated semi-supervised learning (FSSL) has emerged as a promising solution. From the perspective of big data, this challenge is further intensified by the large scale, heterogeneity, and non-IID nature of data distributions. These factors significantly affect training efficiency, making it crucial to fully leverage diverse unlabeled datasets while ensuring privacy and minimizing communication costs for large-scale FL deployment. In this study, we apply data augmentation in FSSL to make better use of unlabeled data together with the limited amount of labeled data. Specifically, we investigate the role of CutMix, a widely used patch-level augmentation technique, when combined with Federated FixMatch (FedFixMatch). We evaluate different strategies, including applying CutMix only to labeled data, only to unlabeled data, to both branches, or to mixed data, and examine their effects under varying annotation conditions and heterogeneous client distributions. Additionally, we examine the impact of CutMix on communication efficiency, convergence dynamics, and training stability within FedFixMatch. To the best of our knowledge, this work provides the first comprehensive benchmark of CutMix strategies in FSSL for medical image segmentation. Our results provide important guidance for developing efficient augmentation strategies that address the practical challenges of big data and FL.},
+  html={https://ieeexplore.ieee.org/abstract/document/11402514},
+  doi={10.1109/BigData66926.2025.11402514},
+  code={https://github.com/shuilee/FedFixMatch/},
+  published={true},
+  preview={FedFixMatch_CutMix.jpg}
+}
+
+@article{nguyen2025xbittert5,
   abbr={JCheminf},
   bibtex_show={true},
   title={<b><i>xBitterT5:</i></b> an explainable transformer-based framework with multimodal inputs for identifying bitter-taste peptides},
@@ -35,7 +111,7 @@
   doi={10.1186/s13321-025-01078-1},
   pdf={xBitterT5.pdf},
   code={https://github.com/cbbl-skku-org/xBitterT5/},
-  website={https://balalab-skku.org/xBitterT5/},
+  server={https://balalab-skku.org/xBitterT5/},
   published={true},
   selected={true},
   preview={xBitterT5.jpg}
@@ -57,7 +133,7 @@
   doi={10.1016/j.jpha.2025.101410},
   pdf={HyPepTox-Fuse.pdf},
   code={https://github.com/cbbl-skku-org/HyPepTox-Fuse/},
-  website={https://balalab-skku.org/HyPepTox-Fuse/},
+  server={https://balalab-skku.org/HyPepTox-Fuse/},
   published={true},
   selected={true},
   preview={HyPepTox-Fuse.jpg}
@@ -259,7 +335,7 @@
   abstract={O-linked glycosylation is a complex post-translational modification (PTM) in human proteins that plays a critical role in regulating various cellular metabolic and signaling pathways. In contrast to N-linked glycosylation, O-linked glycosylation lacks specific sequence features and maintains an unstable core structure. Identifying O-linked threonine glycosylation sites (OTGs) remains challenging, requiring extensive experimental tests. While bioinformatics tools have emerged for predicting OTGs, their reliance on limited conventional features and absence of well-defined feature selection strategies limit their effectiveness. To address these limitations, we introduced HOTGpred (Human O-linked Threonine Glycosylation predictor), employing a multi-stage feature selection process to identify the optimal feature set for accurately identifying OTGs. Initially, we assessed 25 different feature sets derived from various pretrained protein language model (PLM)-based embeddings and conventional feature descriptors using nine classifiers. Subsequently, we integrated the top five embeddings linearly and determined the most effective scoring function for ranking hybrid features, identifying the optimal feature set through a process of sequential forward search. Among the classifiers, the extreme gradient boosting (XGBT)-based model, using the optimal feature set (HOTGpred), achieved 92.03% accuracy on the training dataset and 88.25% on the balanced independent dataset. Notably, HOTGpred significantly outperformed the current state-of-the-art methods on both the balanced and imbalanced independent datasets, demonstrating its superior prediction capabilities. Additionally, SHapley Additive exPlanations (SHAP) and ablation analyses were conducted to identify the features contributing most significantly to HOTGpred. Finally, we developed an easy-to-navigate web server, accessible at <a href="https://balalab-skku.org/HOTGpred/">https://balalab-skku.org/HOTGpred/</a>, to support glycobiologists in their research on glycosylation structure and function.},
   html={https://www.sciencedirect.com/science/article/abs/pii/S0010482524009442},
   doi={10.1016/j.compbiomed.2024.108859},
-  website={https://balalab-skku.org/HOTGpred/},
+  server={https://balalab-skku.org/HOTGpred/},
   published={true},
   preview={HOTGpred.png}
 }
@@ -279,7 +355,7 @@
   html={https://www.sciencedirect.com/science/article/abs/pii/S0022283624002894},
   doi={10.1016/j.jmb.2024.168687},
   code={https://github.com/nhattruongpham/mACPpred2/},
-  website={https://balalab-skku.org/mACPpred2/},
+  server={https://balalab-skku.org/mACPpred2/},
   published={true},
   zenodo={11350064},
   preview={mACPpred2.png},
@@ -298,7 +374,7 @@
   abstract={Allergy is a hypersensitive condition in which individuals develop objective symptoms when exposed to harmless substances at a dose that would cause no harm to a “normal” person. Most current computational methods for allergen identification rely on homology or conventional machine learning  using limited set of feature descriptors or validation on specific datasets, making them inefficient and inaccurate. Here, we propose SEP-AlgPro for the accurate identification of allergen protein from sequence information. We analyzed 10 conventional protein-based features and 14 different features derived from protein language models to gauge their effectiveness in differentiating allergens from non-allergens using 15 different classifiers. However, the final optimized model employs top 10 feature descriptors with top seven machine learning classifiers. Results show that the features derived from protein language models exhibit superior discriminative capabilities compared to traditional feature sets. This enabled us to select the most discriminatory baseline models, whose predicted outputs were aggregated and used as input to a deep neural network for the final allergen prediction. Extensive case studies showed that SEP-AlgPro outperforms state-of-the-art predictors in accurately identifying allergens. A user-friendly web server was developed and made freely available at <a href="https://balalab-skku.org/SEP-AlgPro/">https://balalab-skku.org/SEP-AlgPro/</a>, making it a powerful tool for identifying potential allergens.},
   html={https://www.sciencedirect.com/science/article/abs/pii/S014181302403890X},
   doi={10.1016/j.ijbiomac.2024.133085},
-  website={https://balalab-skku.org/SEP-AlgPro/},
+  server={https://balalab-skku.org/SEP-AlgPro/},
   published={true},
   preview={SEP-AlgPro.png}
 }
@@ -319,7 +395,7 @@
   doi={10.1371/journal.pone.0305406},
   pdf={Meta-2OM.pdf},
   code={https://github.com/kuratahiroyuki/Meta-2OM},
-  website={http://kurata35.bio.kyutech.ac.jp/Meta-2OM/},
+  server={http://kurata35.bio.kyutech.ac.jp/Meta-2OM/},
   published={true},
   preview={Meta-2OM.png}
 }
@@ -339,7 +415,7 @@
   html={https://www.cell.com/molecular-therapy-family/nucleic-acids/fulltext/S2162-2531(24)00079-9},
   doi={10.1016/j.omtn.2024.102192},
   pdf={ac4C-AFL.pdf},
-  website={https://balalab-skku.org/ac4C-AFL/},
+  server={https://balalab-skku.org/ac4C-AFL/},
   selected={true},
   published={true},
   preview={ac4C-AFL.png}
@@ -433,12 +509,12 @@
   number={1},
   pages={bbad476},
   year={2024},
-  publisher={OxfOxford University Pressord},
+  publisher={Oxford University Press},
   abstract={2'-O-methylation (2OM) is the most common post-transcriptional modification of RNA. It plays a crucial role in RNA splicing, RNA stability and innate immunity. Despite advances in high-throughput detection, the chemical stability of 2OM makes it difficult to detect and map in messenger RNA. Therefore, bioinformatics tools have been developed using machine learning (ML) algorithms to identify 2OM sites. These tools have made significant progress, but their performances remain unsatisfactory and need further improvement. In this study, we introduced H2Opred, a novel hybrid deep learning (HDL) model for accurately identifying 2OM sites in human RNA. Notably, this is the first application of HDL in developing four nucleotide-specific models [adenine (A2OM), cytosine (C2OM), guanine (G2OM) and uracil (U2OM)] as well as a generic model (N2OM). H2Opred incorporated both stacked 1D convolutional neural network (1D-CNN) blocks and stacked attention-based bidirectional gated recurrent unit (Bi-GRU-Att) blocks. 1D-CNN blocks learned effective feature representations from 14 conventional descriptors, while Bi-GRU-Att blocks learned feature representations from five natural language processing-based embeddings extracted from RNA sequences. H2Opred integrated these feature representations to make the final prediction. Rigorous cross-validation analysis demonstrated that H2Opred consistently outperforms conventional ML-based single-feature models on five different datasets. Moreover, the generic model of H2Opred demonstrated a remarkable performance on both training and testing datasets, significantly outperforming the existing predictor and other four nucleotide-specific H2Opred models. To enhance accessibility and usability, we have deployed a user-friendly web server for H2Opred, accessible at <a href="https://balalab-skku.org/H2Opred/">https://balalab-skku.org/H2Opred/</a>. This platform will serve as an invaluable tool for accurately predicting 2OM sites within human RNA, thereby facilitating broader applications in relevant research endeavors.},
   html={https://academic.oup.com/bib/article/25/1/bbad476/7510980},
   doi={10.1093/bib/bbad476},
   pdf={H2Opred.pdf},
-  website={https://balalab-skku.org/H2Opred/},
+  server={https://balalab-skku.org/H2Opred/},
   selected={true},
   published={true},
   media={https://www.ibric.org/s.do?CWXEPvOoln},
@@ -455,12 +531,12 @@
   number={1},
   pages={bbad433},
   year={2024},
-  publisher={OxfOxford University Pressord},
+  publisher={Oxford University Press},
   abstract={The worldwide appearance of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has generated significant concern and posed a considerable challenge to global health. Phosphorylation is a common post-translational modification that affects many vital cellular functions and is closely associated with SARS-CoV-2 infection. Precise identification of phosphorylation sites could provide more in-depth insight into the processes underlying SARS-CoV-2 infection and help alleviate the continuing coronavirus disease 2019 (COVID-19) crisis. Currently, available computational tools for predicting these sites lack accuracy and effectiveness. In this study, we designed an innovative meta-learning model, Meta-Learning for Serine/Threonine Phosphorylation (MeL-STPhos), to precisely identify protein phosphorylation sites. We initially performed a comprehensive assessment of 29 unique sequence-derived features, establishing prediction models for each using 14 renowned machine learning methods, ranging from traditional classifiers to advanced deep learning algorithms. We then selected the most effective model for each feature by integrating the predicted values. Rigorous feature selection strategies were employed to identify the optimal base models and classifier(s) for each cell-specific dataset. To the best of our knowledge, this is the first study to report two cell-specific models and a generic model for phosphorylation site prediction by utilizing an extensive range of sequence-derived features and machine learning algorithms. Extensive cross-validation and independent testing revealed that MeL-STPhos surpasses existing state-of-the-art tools for phosphorylation site prediction. We also developed a publicly accessible platform at <a href="https://balalab-skku.org/MeL-STPhos/">https://balalab-skku.org/MeL-STPhos/</a>. We believe that MeL-STPhos will serve as a valuable tool for accelerating the discovery of serine/threonine phosphorylation sites and elucidating their role in post-translational regulation.},
   html={https://academic.oup.com/bib/article/25/1/bbad433/7459584},
   doi={10.1093/bib/bbad433},
   pdf={MeL-STPhos.pdf},
-  website={https://balalab-skku.org/MeL-STPhos/},
+  server={https://balalab-skku.org/MeL-STPhos/},
   selected={true},
   published={true},
   media={https://www.ibric.org/s.do?nLdsctWFBW},
@@ -513,7 +589,7 @@
   abstract={Diabetes mellitus has become a major public health concern associated with high mortality and reduced life expectancy and can cause blindness, heart attacks, kidney failure, lower limb amputations, and strokes. A new generation of antidiabetic peptides (ADPs) that act on β-cells or T-cells to regulate insulin production is being developed to alleviate the effects of diabetes. However, the lack of effective peptide-mining tools has hampered the discovery of these promising drugs. Hence, novel computational tools need to be developed urgently. In this study, we present ADP-Fuse, a novel two-layer prediction framework capable of accurately identifying ADPs or non-ADPs and categorizing them into type 1 and type 2 ADPs. First, we comprehensively evaluated 22 peptide sequence-derived features coupled with eight notable machine learning algorithms. Subsequently, the most suitable feature descriptors and classifiers for both layers were identified. The output of these single-feature models, embedded with multiview information, was trained with an appropriate classifier to provide the final prediction. Comprehensive cross-validation and independent tests substantiate that ADP-Fuse surpasses single-feature models and the feature fusion approach for the prediction of ADPs and their types. In addition, the SHapley Additive exPlanation method was used to elucidate the contributions of individual features to the prediction of ADPs and their types. Finally, a user-friendly web server for ADP-Fuse was developed and made publicly accessible (<a href="https://balalab-skku.org/ADP-Fuse/">https://balalab-skku.org/ADP-Fuse/</a>), enabling the swift screening and identification of novel ADPs and their types. This framework is expected to contribute significantly to antidiabetic peptide identification.},
   html={https://www.sciencedirect.com/science/article/abs/pii/S001048252300851X},
   doi={10.1016/j.compbiomed.2023.107386},
-  website={https://balalab-skku.org/ADP-Fuse/},
+  server={https://balalab-skku.org/ADP-Fuse/},
   published={true},
   preview={ADP-Fuse.png}
 }
@@ -614,8 +690,6 @@
   html={https://www.sciencedirect.com/science/article/pii/S0957417423011107},
   doi={10.1016/j.eswa.2023.120608},
   pdf={HDA_mADCRNN.pdf},
-  arxiv={2109.09026},
-  code={https://github.com/nhattruongpham/hda-adcrnn-ser},
   selected={true},
   published={true},
   preview={HDA_mADCRNN.png}
@@ -634,7 +708,7 @@
   abstract={T-cells recognize antigenic epitopes present on major histocompatibility complex (MHC) molecules, triggering an adaptive immune response in the host. T-cell epitope (TCE) identification is challenging because of the extensive number of undetermined proteins found in eukaryotic pathogens, as well as MHC polymorphisms. In addition, conventional experimental approaches for TCE identification are time-consuming and expensive. Thus, computational approaches that can accurately and rapidly identify CD8<sup>+</sup> T-cell epitopes (TCEs) of eukaryotic pathogens based solely on sequence information may facilitate the discovery of novel CD8<sup>+</sup> TCEs in a cost-effective manner. Here, Pretoria (Predictor of CD8<sup>+</sup> TCEs of eukaryotic pathogens) is proposed as the first stack-based approach for accurate and large-scale identification of CD8<sup>+</sup> TCEs of eukaryotic pathogens. In particular, Pretoria enabled the extraction and exploration of crucial information embedded in CD8<sup>+</sup> TCEs by employing a comprehensive set of 12 well-known feature descriptors extracted from multiple groups, including physicochemical properties, composition-transition-distribution, pseudo-amino acid composition, and amino acid composition. These feature descriptors were then utilized to construct a pool of 144 different machine learning (ML)-based classifiers based on 12 popular ML algorithms. Finally, the feature selection method was used to effectively determine the important ML classifiers for the construction of our stacked model. The experimental results indicated that Pretoria is an accurate and effective computational approach for CD8<sup>+</sup> TCE prediction; it was superior to several conventional ML classifiers and the existing method in terms of the independent test, with an accuracy of 0.866, MCC of 0.732, and AUC of 0.921. Additionally, to maximize user convenience for high-throughput identification of CD8<sup>+</sup> TCEs of eukaryotic pathogens, a user-friendly web server of Pretoria (<a href="http://pmlabstack.pythonanywhere.com/Pretoria">http://pmlabstack.pythonanywhere.com/Pretoria</a>) was developed and made freely available.},
   html={https://www.sciencedirect.com/science/article/abs/pii/S0141813023011224},
   doi={10.1016/j.ijbiomac.2023.124228},
-  website={http://pmlabstack.pythonanywhere.com/Pretoria},
+  server={http://pmlabstack.pythonanywhere.com/Pretoria},
   published={true},
   preview={Pretoria.png}
 }
@@ -672,7 +746,6 @@
   abstract={COVID-19 is an infectious disease caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). This deadly virus has spread worldwide, leading to a global pandemic since March 2020. A recent variant of SARS-CoV-2 named Delta is intractably contagious and responsible for more than four million deaths globally. Therefore, developing an efficient self-testing service for SARS-CoV-2 at home is vital. In this study, a two-stage vision-based framework, namely Fruit-CoV, is introduced for detecting SARS-CoV-2 infections through recorded cough sounds. Specifically, audio signals are converted into Log-Mel spectrograms, and the EfficientNet-V2 network is used to extract their visual features in the first stage. In the second stage, 14 convolutional layers extracted from the large-scale Pretrained Audio Neural Networks for audio pattern recognition (PANNs) and the Wavegram-Log-Mel-CNN are employed to aggregate feature representations of the Log-Mel spectrograms and the waveform. Finally, the combined features are used to train a binary classifier. In this study, a dataset provided by the AICovidVN 115M Challenge is employed for evaluation. It includes 7,371 recorded cough sounds collected throughout Vietnam, India, and Switzerland. Experimental results indicate that the proposed model achieves an Area Under the Receiver Operating Characteristic Curve (AUC) score of 92.8% and ranks first on the final leaderboard of the AICovidVN 115M Challenge. Our code is publicly available.},
   html={https://www.sciencedirect.com/science/article/pii/S0957417422022308},
   doi={10.1016/j.eswa.2022.119212},
-  arxiv={2109.03219},
   code={https://github.com/nhattruongpham/Fruit-CoV},
   selected={true},
   published={true},
@@ -696,6 +769,7 @@
   pdf={Fruit-API.pdf},
   code={https://github.com/garlicdevs/Fruit-API},
   website={https://fruitlab.org/},
+  selected={true},
   published={true},
   preview={Fruit-API.png}
 }
