@@ -10,7 +10,13 @@ nav_order: 5
 <div class="row">
     <div class="col-lg-6 col-md-8 d-flex align-items-stretch mt-4 container2 w-150" data-aos="zoom-in" data-aos-delay="100">
         <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center box box-light-mode box-dark-mode">
-            <h4><a href="https://github.com/malik010/AquaLNCRpred/" class="link-light-mode link-dark-mode"><b><i>AquaLNCRpred</i></b></a></h4>
+            <h4><a href="https://github.com/nhattruongpham/PhoSARte" class="link-light-mode link-dark-mode"><b><i>PhoSARte</i></b></a></h4>
+            <p class="text-light-mode text-dark-mode">Identification of SARS-CoV-2 phosphorylation sites using contrastive learning and protein language models</p>
+        </div>
+    </div>
+    <div class="col-lg-6 col-md-8 d-flex align-items-stretch mt-4 container2 w-150" data-aos="zoom-in" data-aos-delay="100">
+        <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center box box-light-mode box-dark-mode">
+            <h4><a href="https://github.com/malik010/AquaLNCRpred" class="link-light-mode link-dark-mode"><b><i>AquaLNCRpred</i></b></a></h4>
             <p class="text-light-mode text-dark-mode">A sequence-based framework for lncRNA prediction across diverse aquaculture species</p>
         </div>
     </div>
